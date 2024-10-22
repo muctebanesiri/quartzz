@@ -195,4 +195,5 @@ for i, image_url in enumerate(output):
         print(f"Failed to download image {i+1}.")
 ```
 
+
 [^1]: به عنوان یک قاعدهٔ سرانگشتی، تعداد قدم‌ها بهتر است صدبرابر تعداد عکس‌های ورودی باشد.
