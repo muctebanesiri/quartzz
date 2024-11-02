@@ -583,3 +583,42 @@ pre:has(>code.mermaid) .clipboard-button {
 .katex-display {
     direction: ltr;
 }
+
+// title logo
+.title-logo {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+
+    img {
+        width: 150px;
+    }
+
+    @media (max-width: 600px) {
+        flex-direction: row;
+        align-items: center;
+
+        & img {
+        width: 75px;
+        }
+    }
+}
+
+#icon-header {
+    margin: 0;
+    transition: transform 0.2s ease;
+    
+    &:hover {
+        transform: scale(1.05);
+    }
+}
+
+// top margin
+
+.page-header {
+    margin: 7rem auto 0 !important;
+}
+
+.page > #quartz-body .sidebar {
+    margin-top: 7rem !important;
+}

@@ -37,8 +37,9 @@ export const defaultContentPageLayout: PageLayout = {
     Component.TagList(),
   ],
   left: [
-    Component.DesktopOnly(Component.Darkmode()),
+    // Component.DesktopOnly(Component.Sidenotes()),
     Component.DesktopOnly(Component.Graph()),
+    Component.DesktopOnly(Component.Darkmode()),
     Component.DesktopOnly(Component.Backlinks()),
 
     Component.MobileOnly(Component.PageTitle()),
