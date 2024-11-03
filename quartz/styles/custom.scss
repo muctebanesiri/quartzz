@@ -1,4 +1,5 @@
 @use "./base.scss";
+@use "./variables.scss";
 
 // put your custom CSS here!
 
@@ -458,8 +459,6 @@ body[data-slug="پروژه‌ها/یادداشت‌برداری/متن‌خوا�
 }
 
 
-
-
 // 
 .logo-div {
     display: flex;
@@ -589,17 +588,17 @@ pre:has(>code.mermaid) .clipboard-button {
     display: flex;
     flex-direction: column;
     gap: 1rem;
-
     img {
         width: 150px;
     }
+}
 
-    @media (max-width: 600px) {
+@media (max-width: variables.$desktopBreakpoint) {
+    .title-logo {
         flex-direction: row;
         align-items: center;
-
-        & img {
-        width: 75px;
+        img {
+            width: 75px;
         }
     }
 }
@@ -615,10 +614,17 @@ pre:has(>code.mermaid) .clipboard-button {
 
 // top margin
 
-.page-header {
-    margin: 7rem auto 0 !important;
+@media (min-width: variables.$desktopBreakpoint) {
+    .page-header {
+        margin: 7rem auto 0 !important;
+    }
+
+    .page > #quartz-body .sidebar {
+        margin-top: 7rem !important;
+    }
+
+    .darkmode {
+        right: 40%;
+    }
 }
 
-.page > #quartz-body .sidebar {
-    margin-top: 7rem !important;
-}

@@ -46,3 +46,12 @@
     opacity: 0;
   }
 }
+
+#dayIcon {
+  fill: #b8860b; // dark yellow color for light mode
+}
+
+.darkmode input:checked ~ label #nightIcon {
+  fill: white; // white color for dark mode
+}
+
