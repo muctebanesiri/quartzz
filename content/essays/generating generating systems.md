@@ -64,4 +64,4 @@ date: 2023-11-26
 <blockquote class="english-blockquote">We are searching for some kind of harmony between two intangibles: a form which we have not yet designed and a context which we cannot properly describe.<footer class="english-footer">Christopher Alexander</footer></blockquote>
 
 
-⏭ [[سیستم‌های مولد]] | ... ⏮
+⏭ [[system generating systems|زبان دیزاین]] | … ⏮

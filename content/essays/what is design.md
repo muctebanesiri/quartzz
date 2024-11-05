@@ -42,4 +42,4 @@ date: 2023-10-23
 <blockquote class="farsi-blockquote">فکر کردن دربارهٔ دیزاین سخت است؛ اما فکر نکردن به آن می‌تواند فاجعه‌آمیز باشد.<footer class="farsi-footer">رالف کاپلان</footer></blockquote>
 
 
-[[تکامل دیزاین]] ⏮
+[[evolution of design|انواع دیزاین]] ⏮
