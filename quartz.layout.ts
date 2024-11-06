@@ -43,11 +43,12 @@ export const defaultContentPageLayout: PageLayout = {
 
     Component.MobileOnly(Component.PageTitle()),
     Component.MobileOnly(Component.Darkmode()),
+    Component.MobileOnly(Component.Search()),
   ],
   right: [
     Component.DesktopOnly(Component.PageTitle()),
     Component.DesktopOnly(Component.Darkmode()),
-    Component.Search(),
+    Component.DesktopOnly(Component.Search()),
     // Component.DesktopOnly(Component.Explorer({
     //   filterFn: (node) => {
     //     // exclude files with the tag "explorerexclude"
