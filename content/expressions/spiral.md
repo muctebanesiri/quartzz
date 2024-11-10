@@ -37,4 +37,4 @@ date: 2024-05-26
 
 - [Ant Mill](https://en.wikipedia.org/wiki/Ant_mill): مارپیچ درون‌گرای میرا
 - [Why Do Spirals Exist Everywhere in Nature](https://www.samwoolfe.com/2014/05/spirals-everywhere.html)
-- [[modular and whole design|چگونگی دیزاین]]
+- [[modular and whole design|دیزاین ماژولار و دیزاین کل‌نگر]]

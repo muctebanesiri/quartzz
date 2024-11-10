@@ -49,4 +49,4 @@ date: 2023-11-11
 <blockquote class="english-blockquote">Here’s the simple truth: you can’t innovate on products without first innovating the way you build them.<footer class="english-footer">Alex Schleifer, Airbnb</footer></blockquote>
 
 
-⏭ [[modular and whole design|چگونگی دیزاین]] | [[generating generating systems|الگوهای دیزاین]] ⏮
+⏭ [[modular and whole design|دیزاین ماژولار و دیزاین کل‌نگر]] | [[generating generating systems|ایجاد زبان دیزاین]] ⏮
