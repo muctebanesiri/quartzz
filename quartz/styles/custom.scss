@@ -603,6 +603,10 @@ pre:has(>code.mermaid) .clipboard-button {
             width: 75px;
         }
     }
+
+    #header-text {
+        overflow-wrap: unset;
+    }
 }
 
 #icon-header {
@@ -629,4 +633,3 @@ pre:has(>code.mermaid) .clipboard-button {
         right: 40%;
     }
 }
-
