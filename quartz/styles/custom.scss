@@ -39,14 +39,14 @@ button#explorer .fold {
 }
 
 .explorer {
-    border:1px solid var(--lightgray);
+    border:1px solid var(--gray);
     border-radius:5px;
     padding:10px;
     font-size:1rem;
 }
 
 .toc {
-    border:1px solid var(--lightgray);
+    border:1px solid var(--gray);
     border-radius:5px;
     padding:10px;
     font-size:1rem;
@@ -73,7 +73,7 @@ button#explorer .fold {
 }
 
 .backlinks > ul {
-    border: 1px solid var(--lightgray);
+    border: 1px solid var(--gray);
     border-radius: 5px;
     padding-top: 10px;
     padding-left: 10px;
@@ -110,7 +110,7 @@ code {
 
 .search > #search-icon {
     background-color: unset !important;
-    border: 1px solid var(--lightgray) !important;
+    border: 1px solid var(--gray) !important;
 }
 
 div.search.mobile-only {
