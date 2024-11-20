@@ -18,9 +18,6 @@ date: 2024-06-08
 
 این زیر فهرست هدیه‌های پیشنهادی خودم است که هدیه‌گیران محترم فرستاده‌ام و می‌فرستم 😁
 
-- کتاب [حرکت در مه](https://www.iranketab.ir/book/14585-move-on-in-the-fog) از محمدحسن شهسواری
-- کتاب [بوطیقای فضا](https://www.iranketab.ir/book/38606-the-poetics-of-space) از گاستون باشلار
-- کتاب [درباره مدیریت تغییر](https://www.iranketab.ir/book/9294-hbr-s-10-must-reads-on-change-management) از HBR
 - [خانهٔ مینیاتوری باغ گل](https://www.robotimeonline.com/products/rolife-cathys-flower-house-diy-miniature-house-dg104)
 - لگوی [Tranquil Garden](https://www.amazon.com/LEGO-Tranquil-Creative-Building-Meditation/dp/B0BSRGKTGB?ref_=pb_hm_dp_T1)
 - ~~[ماهیتابهٔ روحی مخصوص املت :)](https://www.digikala.com/product/dkp-7400438/%D8%AA%D8%A7%D8%A8%D9%87-%D9%85%D8%AF%D9%84-%D8%B1%D9%88%D8%AD%DB%8C-%D8%B3%D8%A7%DB%8C%D8%B2-18/)
@@ -29,3 +26,7 @@ date: 2024-06-08
 - ~~[قوری](https://archekala.ir/shop/%D9%82%D9%88%D8%B1%DB%8C-%D8%A8%D8%A7-%D9%88%D8%A7%D8%B1%D9%85%D8%B1-%D9%BE%DB%8C%D8%B1%DA%A9%D8%B3/)~~ و [قابلمهٔ](https://www.digikala.com/product/dkp-3881909/%D9%82%D8%A7%D8%A8%D9%84%D9%85%D9%87-%D9%85%D8%AF%D9%84-1300-%D8%B3%D8%A7%DB%8C%D8%B2-14/) پیرکس
 - کتاب [جغرافیای اندیشه](http://elmipublications.com/product/joqrafiyayeandisheh/) از ریچارد نیسبت
 - کتاب [تاریخ بی‌خردی](https://www.iranketab.ir/book/2198-the-march-of-folly-from-troy-to-vietnam) از باربارا تاکمن
+- کتاب [حرکت در مه](https://www.iranketab.ir/book/14585-move-on-in-the-fog) از محمدحسن شهسواری
+- کتاب [بوطیقای فضا](https://www.iranketab.ir/book/38606-the-poetics-of-space) از گاستون باشلار
+- کتاب [درباره مدیریت تغییر](https://www.iranketab.ir/book/9294-hbr-s-10-must-reads-on-change-management) از HBR
+- متن یا نامه‌ای که من را به خودم بشناساند
