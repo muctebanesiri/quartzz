@@ -29,4 +29,5 @@ date: 2024-06-08
 - کتاب [حرکت در مه](https://www.iranketab.ir/book/14585-move-on-in-the-fog) از محمدحسن شهسواری
 - کتاب [بوطیقای فضا](https://www.iranketab.ir/book/38606-the-poetics-of-space) از گاستون باشلار
 - کتاب [درباره مدیریت تغییر](https://www.iranketab.ir/book/9294-hbr-s-10-must-reads-on-change-management) از HBR
+- کتاب [پاراگونه: مقایسهٔ هنرها](https://www.iranketab.ir/book/148948-leonardo-da-vinci-s-paragone) از لئوناردو داوینچی
 - متن یا نامه‌ای که من را به خودم بشناساند
