@@ -436,8 +436,10 @@ Strictness plus rule-breaking sounds like a strange combination. In popular cult
 > ‌ ‌‌ ‌‌ 
 > یک راه برای تغییر زاویه نگاه، سخت‌گیری بیش از اندازه است. آدم‌های زودگذر، خیلی راحت به مدل های فعلی عادت می‌کنند. اما کسی که ایرادی را می‌بیند و بی‌خیال نمی‌شود، دیر یا زود به یک مدل جدید برای حل مسأله می‌رسد. این دقیقاً کاری بود که انیشتین کرد. مشابه این نوآوری‌ها در کتاب [ساختار انقلاب‌های علمی](https://fa.wikipedia.org/wiki/%D8%B3%D8%A7%D8%AE%D8%AA%D8%A7%D8%B1_%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8%E2%80%8C%D9%87%D8%A7%DB%8C_%D8%B9%D9%84%D9%85%DB%8C) از توماس کوهن آمده است. جور دیگر دیدن نوعی قانون شکنی است. پس یک خصیصهٔ لازم برای رسیدن به مدل‌های جدید، میل به قانون‌شکنی و تحمل عوارض آن است. چون همواره از سمت اکثریت پیروان مدل قبلی، در برابر مدل جدید مقاومت وجود داره. حرف گالیله و انیشتین تا سال‌ها بعد از کشف اولیه جدی گرفته نشد. امروز هم اگر کسی ادعای جدید علمی بکند، تا مدت‌ها نادیده گرفته خواهد شد. ایده خوب در اوایل مسیر به دید همه احمقانه می‌آید. چون اگر احمقانه نبود، همه امتحانش می‌کردند. به مرور که نتیجه می‌دهد، کم‌تر احمقانه به نظر می‌رسد.
 
-> [!NOTE] قانون‌شکن‌ها دو دسته‌اند
+
+> [!tip] قانون‌شکن‌ها دو دسته‌اند
 دسته اول افرادی هستند که از شکستن قوانین لذت می‌برند. دسته دوم اصلا برای قوانین اهمیتی قائل نیستند. کسی که قوانین را مهم می‌داند، به دام آن‌ها نمی‌افتد و محدود به آن‌ها نمی‌شود. به خاطر همین فکرش آزادتر است.
+
 
 ---
 
@@ -456,32 +458,53 @@ What are people in your field religious about, in the sense of being too attache
 People show much more originality in solving problems than in deciding which problems to solve. Even the smartest can be surprisingly conservative when deciding what to work on. People who'd never dream of being fashionable in any other way get sucked into working on fashionable problems. 
  
 One reason people are more conservative when choosing problems than solutions is that problems are bigger bets. A problem could occupy you for years, while exploring a solution might only take days. But even so I think most people are too conservative. They're not merely responding to risk, but to fashion as well. Unfashionable problems are undervalued. 
- 
-One of the most interesting kinds of unfashionable problem is the problem that people think has been fully explored, but hasn't. Great work often takes something that already exists and shows its latent potential. Durer and Watt both did this. So if you're interested in a field that others think is tapped out, don't let their skepticism deter you. People are often wrong about this. 
+
+> [!NOTE] آدم‌ها بیشتر روی حل مسائل موجود تمرکز دارند تا انتخاب مسألهٔ جدید
+> انتخاب مسأله قمار بزرگتری هست. از طرفی ممکنه به هیچ نتیجه‌ای نرسه و از طرفی ممکنه به یک کشف تاریخی منجر بشه. اما حل مسائل موجود قمار ساده‌تری هست. زمان‌ کم‌تری هم می‌بره.
+
+One of the most interesting kinds of unfashionable problem is the problem that people think has been fully explored, but hasn't. Great work often takes something that already exists and shows its latent potential. Durer and Watt both did this. So if you're interested in a field that others think is tapped out, don't let their skepticism deter you. People are often wrong about this.
  
 Working on an unfashionable problem can be very pleasing. There's no hype or hurry. Opportunists and critics are both occupied elsewhere. The existing work often has an old-school solidity. And there's a satisfying sense of economy in cultivating ideas that would otherwise be wasted. 
- 
+
+
+> [!NOTE] مسائل بی‌کلاس فرصت فوق‌العاده‌ای برای انجام کار بزرگ هستند
+> کار کردن روی مسائل بی‌کلاس (اونایی که منزلت اجتماعی خاصی نمیاره) بسیار لذت‌بخشه. چون تنها افرادی به سراغش می‌رن که به خود مسأله علاقه داشته باشند؛ نه به اعتباریات حول اون. در فضای حل این مسائل فرصت‌طلب‌ها و منتقدهای غرغرو کمتر دیده می‌شن. یه نمونه از مسائل بی‌کلاس، حوزه‌هایی هستن که همه خیال می‌کنن تا انتها فهمیده شده. خیلی از کشف‌های بزرگ از شکستن همین خیال به وجود اومده.
+
+
 But the most common type of overlooked problem is not explicitly unfashionable in the sense of being out of fashion. It just doesn't seem to matter as much as it actually does. How do you find these? By being self-indulgent — by letting your curiosity have its way, and tuning out, at least temporarily, the little voice in your head that says you should only be working on "important" problems. 
  
 You do need to work on important problems, but almost everyone is too conservative about what counts as one. And if there's an important but overlooked problem in your neighborhood, it's probably already on your subconscious radar screen. So try asking yourself: if you were going to take a break from "serious" work to work on something just because it would be really interesting, what would you do? The answer is probably more important than it seems. 
  
+
+> [!NOTE] آزادی ذهن، مسائل مهم را یادآوری می‌کند
+> اگر می‌خواهید بفهمید همین حالا چه مسائلی در ذهنتان پررنگ هستند، کافیست خیال کنید که یه مرخصی چند ماهه -با حقوق و دستمزد- دارید و حالا می‌خواهید با خیال راحت روی یک مسأله کار کنید. چه مسأله‌ای را انتخاب می‌کنید؟ چرا؟ پاسخ به این سؤال‌ها، مسائل مهم را از اعماق ناخودآگاه شما بیرون خواهد کشید.
+
+
 Originality in choosing problems seems to matter even more than originality in solving them. That's what distinguishes the people who discover whole new fields. So what might seem to be merely the initial step — deciding what to work on — is in a sense the key to the whole game. 
 
 ---
 
 Few grasp this. One of the biggest misconceptions about new ideas is about the ratio of question to answer in their composition. People think big ideas are answers, but often the real insight was in the question. 
- 
+
+
+> [!NOTE] ایده‌های مهم از جنس سؤال هستند؛ نه جواب
+> سؤال خوب مثل قلاب می‌ماند. خیلی از ایده‌های بزرگ با سؤال‌هایی بسیار ساده شروع شده‌اند. کشف جاذبه، تکامل، الکترومغناطیس، واکسن، نسبیت و... با سؤال‌هایی بی‌نهایت شروع شده است.
+
+
 Part of the reason we underrate questions is the way they're used in schools. In schools they tend to exist only briefly before being answered, like unstable particles. But a really good question can be much more than that. A really good question is a partial discovery. How do new species arise? Is the force that makes objects fall to earth the same as the one that keeps planets in their orbits? By even asking such questions you were already in excitingly novel territory. 
- 
+
 Unanswered questions can be uncomfortable things to carry around with you. But the more you're carrying, the greater the chance of noticing a solution — or perhaps even more excitingly, noticing that two unanswered questions are the same. 
  
 Sometimes you carry a question for a long time. Great work often comes from returning to a question you first noticed years before — in your childhood, even — and couldn't stop thinking about. People talk a lot about the importance of keeping your youthful dreams alive, but it's just as important to keep your youthful questions alive.[^19]
  
 This is one of the places where actual expertise differs most from the popular picture of it. In the popular picture, experts are certain. But actually the more puzzled you are, the better, so long as (a) the things you're puzzled about matter, and (b) no one else understands them either. 
- 
+
 Think about what's happening at the moment just before a new idea is discovered. Often someone with sufficient expertise is puzzled about something. Which means that originality consists partly of puzzlement — of confusion! You have to be comfortable enough with the world being full of puzzles that you're willing to see them, but not so comfortable that you don't want to solve them.[^20]
  
 It's a great thing to be rich in unanswered questions. And this is one of those situations where the rich get richer, because the best way to acquire new questions is to try answering existing ones. Questions don't just lead to answers, but also to more questions. 
+
+> [!NOTE] مدرسه سؤال را در ذهن ما بی‌اهمیت می‌کند
+> در فضای آموزشی، عمر سؤال‌ها به چند دقیقه هم نمی‌رسد. سؤال مدرسه‌ای، همیشه جوابی سریع و مشخص دارند. در حالی که در دنیای واقعی جواب این سؤال‌ها نه سریعند و نه مشخص. در دنیای واقعی یک سؤال سال‌ها با فرد می‌ماند تا بالاخره با تغییر دیدگاه یا الهام گرفتن از فضای پیرامونی به جوابی اولیه برایش برسد. پس گیج بودن الزاماً بد نیست. گیجی پیش‌زمینهٔ کشف است. در این صورت، سؤال‌های حل‌نشده در ذهن ما معادل دارایی ما هستند. هر چه بیشتر، بهتر.
 
 ---
 
