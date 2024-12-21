@@ -376,7 +376,7 @@ If you express your ideas in the most general form, they'll be truer than you in
 > چرا که از این جهت قدرت تکامل بیشتری پیدا می‌کند. ابزارهای متن‌باز این ویژگی را دارند. رویدادها و بازارها (Marketplace) هم این ویژگی را دارند. ابزاری که بازار می‌سازد، پایداری و سودآوری‌اش در بلندمدت تضمین می‌شود.
 
 > [!example] مثال Airbnb
-> خود Airbnb ابزار پیچیده‌ای نیست.صرفاً به مسافران اجازهٔ اجارهٔ خانه را می‌دهد. اما همین ابزار باعث شکل‌گیری بازار شده. تا جایی که عده‌ای شغلشان خرید و تجهیز خانه برای میزبانی از مسافران شده است.
+> خود Airbnb ابزار پیچیده‌ای نیست.صرفاً به مسافران اجازهٔ اجارهٔ خانه را می‌دهد. اما همین ابزار باعث شکل‌گیری بازار شده. تا جایی که عده‌ای شغلشان خرید و تجهیز خانه برای میزبانی از مسافران شده است. با همهٔ این‌ها Airbnb مالک هیچ خانه‌ای نیست. همانطور که اسنپ هیچ ماشینی ندارد.
 
 ---
 
@@ -513,7 +513,12 @@ The best questions grow in the answering. You notice a thread protruding from th
 It's better to be promiscuously curious — to pull a little bit on a lot of threads, and see what happens. Big things start small. The initial versions of big things were often just experiments, or side projects, or talks, which then grew into something bigger. So start lots of small things. 
  
 Being prolific is underrated. The more different things you try, the greater the chance of discovering something new. Understand, though, that trying lots of things will mean trying lots of things that don't work. You can't have a lot of good ideas without also having a lot of bad ones.[^21]
- 
+
+
+> [!NOTE] هر سؤال یک سرنخ است
+> آدم که دنبالهٔ این نخ‌ها را می‌گیرد و به سؤال‌های اولیه پاسخ می‌دهد، به سؤال‌های بهتری می‌رسد. البته که خیلی از سؤال‌ها در نهایت به هیچ جایی نمی‌رسند؛ اما لازمهٔ داشتن ایده‌ها و سؤال‌های خوب، داشتن ایده‌ها و سؤال‌های زیاد است.
+
+
 Though it sounds more responsible to begin by studying everything that's been done before, you'll learn faster and have more fun by trying stuff. And you'll understand previous work better when you do look at it. So err on the side of starting. Which is easier when starting means starting small; those two ideas fit together like two puzzle pieces. 
  
 How do you get from starting small to doing something great? By making successive versions. Great things are almost always made in successive versions. You start with something small and evolve it, and the final version is both cleverer and more ambitious than anything you could have planned. 
@@ -525,10 +530,18 @@ Begin by trying the simplest thing that could possibly work. Surprisingly often,
 Don't try to cram too much new stuff into any one version. There are names for doing this with the first version (taking too long to ship) and the second (the second system effect), but these are both merely instances of a more general principle. 
  
 An early version of a new project will sometimes be dismissed as a toy. It's a good sign when people do this. That means it has everything a new idea needs except scale, and that tends to follow.[^22]
- 
+
+> [!NOTE] کار را کوچک شروع کنید و به مرور بهبودش بدهید
+> رسیدن به سرنخ‌های کوچک به کارهای بزرگ یک فرآیند زمان‌بر است. برداشتن گام‌های متوالی، این مسیر را ساده‌تر می‌کند. خروجی‌های ابتدایی کارهای جدید بیشتر شبیه اسباب‌بازی می‌مانند. اما به مرور [[spiral|کامل می‌شوند]] و سروشکل می‌یابند. تا جایی که اصلاً از اول کسی فکرش را هم نمی‌کرد.
+
 The alternative to starting with something small and evolving it is to plan in advance what you're going to do. And planning does usually seem the more responsible choice. It sounds more organized to say "we're going to do x and then y and then z" than "we're going to try x and see what happens." And it is more _organized_; it just doesn't work as well. 
  
 Planning per se isn't good. It's sometimes necessary, but it's a necessary evil — a response to unforgiving conditions. It's something you have to do because you're working with inflexible media, or because you need to coordinate the efforts of a lot of people. If you keep projects small and use flexible media, you don't have to plan as much, and your designs can evolve instead.
+
+
+> [!NOTE] بعضی اوقات برنامه‌ریزی لازم می‌شود
+> کار کوچک و کامل‌شونده مربوط به فضاهای منعطف است. اگر در فضاهای انعطاف‌ناپذیر و سخت مشغول می‌شوید، بهتر است برنامه‌ریزی اولیه‌ای دربارهٔ قدم‌های مختلف آن داشته باشید.
+
 
 ---
 
