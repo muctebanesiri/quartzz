@@ -91,3 +91,6 @@ date: 2024-05-18
 
 <blockquote class="english-blockquote">you cannot cure an irrational problem rationally<footer class="english-footer">@thegoddisk</footer></blockquote>
 
+<blockquote class="english-blockquote">Neurosis is the inability to tolerate ambiguity.<footer class="english-footer">Sigmund Freud - Probably</footer></blockquote>
+
+<blockquote class="english-blockquote">Some day you will be old enough to start reading fairy tales again.<footer class="english-footer">C.S. Lewis, , The Lion, the Witch and the Wardrobe </footer></blockquote>
