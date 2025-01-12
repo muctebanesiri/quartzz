@@ -25,5 +25,7 @@ date: 2024-07-02
 
 <blockquote class="english-blockquote">The punishment of every disordered mind is its own disorder. This is the ultimate penalty: the mind's own state of confusion and alienation from the truth is its punishment. There is no need for any external force to punish it. The internal disorder, this turning away from the order and harmony of God's creation, is the most severe penalty a soul can suffer<footer class="english-footer">Augustine of Hippo</footer></blockquote>
 
+کثیفی را می‌توان تمیز کرد. نجاست را هم می‌توان تطهیر کرد. گناه هم با توبه و کفاره بخشیده می‌شود. همهٔ این‌ها در نسبت با خداست. اما نجاست و گناه اجتماعی چطور بخشیده می‌شود؟ آیا به بیان ژیرار گناهان باید بر سر یکی انباشته شوند و با قربانی کردنش خشم عمومی تخلیه شود؟
+
 
 [^1]: Ego
