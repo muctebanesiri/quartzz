@@ -553,6 +553,11 @@ Though conservatism is usually associated with the old, it's the young who tend 
  
 Even a project that fails can be valuable. In the process of working on it, you'll have crossed territory few others have seen, and encountered questions few others have asked. And there's probably no better source of questions than the ones you encounter in trying to do something slightly too hard. 
 
+
+> [!NOTE]  اگر چند وقت به چند وقت شکست را تجربه نمی‌کنی، زیادی محافظه‌کار شدی
+> بی‌تجربگی جوان‌ها را از جلو رفتن می‌ترساند؛ در حالی که جوانی بهترین فرصت برای جلو رفتن است. بهترین سؤال‌ها زمان پیشروی به ذهن می‌رسد.
+
+
 ---
 
 Use the advantages of youth when you have them, and the advantages of age once you have those. The advantages of youth are energy, time, optimism, and freedom. The advantages of age are knowledge, efficiency, money, and power. With effort you can acquire some of the latter when young and keep some of the former when old. 
@@ -560,10 +565,19 @@ Use the advantages of youth when you have them, and the advantages of age once y
 The old also have the advantage of knowing which advantages they have. The young often have them without realizing it. The biggest is probably time. The young have no idea how rich they are in time. The best way to turn this time to advantage is to use it in slightly frivolous ways: to learn about something you don't need to know about, just out of curiosity, or to try building something just because it would be cool, or to become freakishly good at something. 
  
 That "slightly" is an important qualification. Spend time lavishly when you're young, but don't simply waste it. There's a big difference between doing something you worry might be a waste of time and doing something you know for sure will be. The former is at least a bet, and possibly a better one than you think.[^23]
+
+
+> [!NOTE] منابع در اختیار پیر و جوان با هم فرق می‌کند
+> آدم در هر سنی که هست، باید از ویژگی‌های مثبت همان دوره از زندگی‌اش استفاده کند. جوان‌ترها انرژی و زمان دارند. خوش‌بینند و آزادی بیشتری برای انجام کارها دارند. سن که بالا می‌رود، ویژگی‌هایی مثل دانش، بهره‌وری، پول و قدرت به نقاط مثبت آدم تبدیل می‌شوند. علاوه بر این، پابه‌سن‌ها می‌دانند که چه ویژگی‌های مثبتی دارند؛ در حالی که جوان‌ها تا آزادی‌شان از دست نرود، متوجه آن نمی‌شوند. بهترین راه برای استفاده از منابع جوانی، گشتن و امتحان کردن فضاهای مختلف است.
+
  
 The most subtle advantage of youth, or more precisely of inexperience, is that you're seeing everything with fresh eyes. When your brain embraces an idea for the first time, sometimes the two don't fit together perfectly. Usually the problem is with your brain, but occasionally it's with the idea. A piece of it sticks out awkwardly and jabs you when you think about it. People who are used to the idea have learned to ignore it, but you have the opportunity not to.[^24]
  
 So when you're learning about something for the first time, pay attention to things that seem wrong or missing. You'll be tempted to ignore them, since there's a 99% chance the problem is with you. And you may have to set aside your misgivings temporarily to keep progressing. But don't forget about them. When you've gotten further into the subject, come back and check if they're still there. If they're still viable in the light of your present knowledge, they probably represent an undiscovered idea. 
+
+
+> [!NOTE] جوانی فرصت دیدن برای بار اول است
+> وقتی برای اول با پدیده روبرو می‌شویم، ایرادات آن خیلی به چشم‌مان می‌آید. برای همین است که برای نوآوری از جوان‌ها کمک می‌گیرند. پیرمردها و پیرزن‌ها به شکل قبلی عادت کرده‌اند و دیگر مشکلات را نمی‌بینند. خوبی جوان‌ها این است که محدودیت‌ها را نمی‌بینند یا کلا دایورت می‌کنند.
 
 ---
 
@@ -572,14 +586,23 @@ One of the most valuable kinds of knowledge you get from experience is to know w
 But what you don't know is only half the problem with inexperience. The other half is what you do know that ain't so. You arrive at adulthood with your head full of nonsense — bad habits you've acquired and false things you've been taught — and you won't be able to do great work till you clear away at least the nonsense in the way of whatever type of work you want to do. 
  
 Much of the nonsense left in your head is left there by schools. We're so used to schools that we unconsciously treat going to school as identical with learning, but in fact schools have all sorts of strange qualities that warp our ideas about learning and thinking. 
- 
+
+> [!NOTE] تجربه به دانش نظری وزن می‌دهد
+> آدم که وارد کار می‌شود، کم‌کم می‌فهمد چه دانشی به دردش می‌خورد و چه دانشی بهتر است در کتاب‌ها باقی می‌مانْد. به دلیل فاصله‌ای که بین آکادمی و صنعت وجود دارد، داشتن تجربه برای فیلتر کردن اطلاعات مزخرف مدرسه و دانشگاه ضرورت دارد.
+
 For example, schools induce passivity. Since you were a small child, there was an authority at the front of the class telling all of you what you had to learn and then measuring whether you did. But neither classes nor tests are intrinsic to learning; they're just artifacts of the way schools are usually designed. 
  
 The sooner you overcome this passivity, the better. If you're still in school, try thinking of your education as your project, and your teachers as working for you rather than vice versa. That may seem a stretch, but it's not merely some weird thought experiment. It's the truth economically, and in the best case it's the truth intellectually as well. The best teachers don't want to be your bosses. They'd prefer it if you pushed ahead, using them as a source of advice, rather than being pulled by them through the material. 
  
+> [!NOTE] مدرسه‌ها بچه را منفعل بار می‌آورند
+> فضای مدرسه شامل معلمی است که می‌گوید و دانش‌آموزی که می‌پذیرد. دانش‌آموز در این فضا فعال بودن را یاد نمی‌گیرد. ایدئال این است که دانش‌آموز را فعال در نظر بگیریم و معلمان را به عنوان مشاوران آن‌ها در پیشروی فرض کنیم.
+
 Schools also give you a misleading impression of what work is like. In school they tell you what the problems are, and they're almost always soluble using no more than you've been taught so far. In real life you have to figure out what the problems are, and you often don't know if they're soluble at all. 
  
 But perhaps the worst thing schools do to you is train you to win by hacking the test. You can't do great work by doing that. You can't trick God. So stop looking for that kind of shortcut. The way to beat the system is to focus on problems and solutions that others have overlooked, not to skimp on the work itself.
+
+> [!NOTE] مدرسه‌ها بچه را منفعل بار می‌آورند
+> بدترین درس مدرسه به بچه‌ها این است که مسأله را برای بچه‌ها مشخص می‌کند. تازه قبل از آن راه‌حل و فرمولش را هم یاد داده است. در صورتی که نه مسائل و نه راه‌حل‌های دنیای واقعی مشخص نیستند. حتی معلوم نیست که آیا حل می‌شوند یا خیر.
 
 ---
 
