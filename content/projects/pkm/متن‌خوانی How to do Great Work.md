@@ -124,7 +124,7 @@ It would be better if they at least admitted it — if they admitted that the sy
 
 
 > [!NOTE] سیستم آموزشی هیچ کمکی به انتخاب مسیر شغلی نمی‌کند
-> عجیب‌تر اینکه از جوان ۱۸ ساله انتظار می‌رود که بدون هیچ شناختی، آینده شغلی خودش را انتخاب کند. در این شرایط معیارهای دیگر -مثل شنیده‌ها از بازار کار، شانس اپلای، اوقات فراغت بیشتر و...- روی آیندهٔ کاری تأثیر می‌گذارند. بعضی‌ها شانسی به علاقه و استعداد خودشان می‌رسند؛ باقی هم ول‌معطل می‌مانند تا در مقاطع بعدی شانس خودشان را امتحان کنند.
+> عجیب‌تر اینکه از جوان ۱۸ ساله انتظار می‌رود که بدون هیچ شناختی، آینده شغلی خودش را انتخاب کند. در این شرایط معیارهای دیگر -مثل شنیده‌ها از بازار کار، شانس اپلای، اوقات فراغت بیشتر و…- روی آیندهٔ کاری تأثیر می‌گذارند. بعضی‌ها شانسی به علاقه و استعداد خودشان می‌رسند؛ باقی هم ول‌معطل می‌مانند تا در مقاطع بعدی شانس خودشان را امتحان کنند.
 
 
 What should you do if you're young and ambitious but don't know what to work on? What you should _not_ do is drift along passively, assuming the problem will solve itself. You need to take action. But there is no systematic procedure you can follow. When you read biographies of people who've done great work, it's remarkable how much luck is involved. They discover what to work on as a result of a chance meeting, or by reading a book they happen to pick up. So you need to make yourself a big target for luck, and the way to do that is to be curious. Try lots of things, meet lots of people, read lots of books, ask lots of questions.[^5]
@@ -247,7 +247,7 @@ Try to finish what you start, though, even if it turns out to be more work than 
 
 Another permissible lie is to exaggerate the importance of what you're working on, at least in your own mind. If that helps you discover something new, it may turn out not to have been a lie after all.[^7]
 
----
+## بخش چهارم: اهمال‌کاری
 
 Since there are two senses of starting work — per day and per project — there are also two forms of procrastination. Per-project procrastination is far the more dangerous. You put off starting that ambitious project from year to year because the time isn't quite right. When you're procrastinating in units of years, you can get a lot not done.[^8]
  
@@ -266,6 +266,7 @@ The way to beat it is to stop occasionally and ask yourself: Am I working on wha
 > <blockquote class="english-blockquote">If what you are doing is not important, and if you don't think it is going to lead to something important, why are you at working on it?</blockquote>
 >  
 
+## بخش پنجم: استمرار
 
 Great work usually entails spending what would seem to most people an unreasonable amount of time on a problem. You can't think of this time as a cost, or it will seem too high. You have to find the work sufficiently engaging as it's happening.
  
@@ -307,8 +308,10 @@ One way to aim high is to try to make something that people will care about in a
 > [!NOTE] اگر برای عالی بودن را هدف نگیریم، به حد خوب هم نمی‌رسیم
 > ذائقهٔ کاری با شناختن بهترین‌ها و علتِ بهترین بودنِ آن‌ها ساخته می‌شود. کنجکاوی، ذائقه را می‌سازد و ذائقه فاصلهٔ ما را با بهترین‌ها کم و کم‌تر می‌کند.
 
-> [!tip] خلق [[noise#زمان و مکان|لازمان]]
+> [!tip] خلق [[noise#زمان و مکان|فرازمان]]
 > یک راه برای هدف گرفتن بلندبالا، ساختن چیزی است که به درد انسان صدسال آینده هم بخورد.
+
+## بخش ششم: سبک کار کردن
 
 Don't try to work in a distinctive style. Just try to do the best job you can; you won't be able to help doing it in a distinctive way. 
  
@@ -380,7 +383,7 @@ If you express your ideas in the most general form, they'll be truer than you in
 > [!example] مثال Airbnb
 > خود Airbnb ابزار پیچیده‌ای نیست.صرفاً به مسافران اجازهٔ اجارهٔ خانه را می‌دهد. اما همین ابزار باعث شکل‌گیری بازار شده. تا جایی که عده‌ای شغلشان خرید و تجهیز خانه برای میزبانی از مسافران شده است. با همهٔ این‌ها Airbnb مالک هیچ خانه‌ای نیست. همانطور که اسنپ هیچ ماشینی ندارد.
 
----
+## بخش هفتم: خلق ایده‌ها
 
 True by itself is not enough, of course. Great ideas have to be true and new. And it takes a certain amount of ability to see new ideas even once you've learned enough to get to one of the frontiers of knowledge. 
  
@@ -490,7 +493,7 @@ Few grasp this. One of the biggest misconceptions about new ideas is about the r
 
 
 > [!NOTE] ایده‌های مهم از جنس سؤال هستند؛ نه جواب
-> سؤال خوب مثل قلاب می‌ماند. خیلی از ایده‌های بزرگ با سؤال‌هایی بسیار ساده شروع شده‌اند. کشف جاذبه، تکامل، الکترومغناطیس، واکسن، نسبیت و... با سؤال‌هایی بی‌نهایت شروع شده است.
+> سؤال خوب مثل قلاب می‌ماند. خیلی از ایده‌های بزرگ با سؤال‌هایی بسیار ساده شروع شده‌اند. کشف جاذبه، تکامل، الکترومغناطیس، واکسن، نسبیت و… با سؤال‌هایی بی‌نهایت شروع شده است.
 
 
 Part of the reason we underrate questions is the way they're used in schools. In schools they tend to exist only briefly before being answered, like unstable particles. But a really good question can be much more than that. A really good question is a partial discovery. How do new species arise? Is the force that makes objects fall to earth the same as the one that keeps planets in their orbits? By even asking such questions you were already in excitingly novel territory. 
@@ -558,7 +561,7 @@ Even a project that fails can be valuable. In the process of working on it, you'
 > بی‌تجربگی جوان‌ها را از جلو رفتن می‌ترساند؛ در حالی که جوانی بهترین فرصت برای جلو رفتن است. بهترین سؤال‌ها زمان پیشروی به ذهن می‌رسد.
 
 
----
+## بخش هشتم: پیری و جوانی
 
 Use the advantages of youth when you have them, and the advantages of age once you have those. The advantages of youth are energy, time, optimism, and freedom. The advantages of age are knowledge, efficiency, money, and power. With effort you can acquire some of the latter when young and keep some of the former when old. 
  
@@ -579,7 +582,7 @@ So when you're learning about something for the first time, pay attention to thi
 > [!NOTE] جوانی فرصت دیدن برای بار اول است
 > وقتی برای اول با پدیده روبرو می‌شویم، ایرادات آن خیلی به چشم‌مان می‌آید. برای همین است که برای نوآوری از جوان‌ها کمک می‌گیرند. پیرمردها و پیرزن‌ها به شکل قبلی عادت کرده‌اند و دیگر مشکلات را نمی‌بینند. خوبی جوان‌ها این است که محدودیت‌ها را نمی‌بینند یا کلا دایورت می‌کنند.
 
----
+## بخش نهم: تجربه
 
 One of the most valuable kinds of knowledge you get from experience is to know what you _don't_ have to worry about. The young know all the things that could matter, but not their relative importance. So they worry equally about everything, when they should worry much more about a few things and hardly at all about the rest. 
  
@@ -601,7 +604,7 @@ Schools also give you a misleading impression of what work is like. In school th
  
 But perhaps the worst thing schools do to you is train you to win by hacking the test. You can't do great work by doing that. You can't trick God. So stop looking for that kind of shortcut. The way to beat the system is to focus on problems and solutions that others have overlooked, not to skimp on the work itself.
 
-> [!NOTE] مدرسه‌ها بچه را منفعل بار می‌آورند
+> [!NOTE] مدرسه‌ها بچه را فرمولی بار می‌آورند
 > بدترین درس مدرسه به بچه‌ها این است که مسأله را برای بچه‌ها مشخص می‌کند. تازه قبل از آن راه‌حل و فرمولش را هم یاد داده است. در صورتی که نه مسائل و نه راه‌حل‌های دنیای واقعی مشخص نیستند. حتی معلوم نیست که آیا حل می‌شوند یا خیر.
 
 ---
@@ -610,14 +613,24 @@ Don't think of yourself as dependent on some gatekeeper giving you a "big break.
  
 And don't take rejection by committees to heart. The qualities that impress admissions officers and prize committees are quite different from those required to do great work. The decisions of selection committees are only meaningful to the extent that they're part of a feedback loop, and very few are. 
 
----
+## بخش دهم: کپی‌کاری
+
 
 People new to a field will often copy existing work. There's nothing inherently bad about that. There's no better way to learn how something works than by trying to reproduce it. Nor does copying necessarily make your work unoriginal. Originality is the presence of new ideas, not the absence of old ones. 
  
 There's a good way to copy and a bad way. If you're going to copy something, do it openly instead of furtively, or worse still, unconsciously. This is what's meant by the famously misattributed phrase "Great artists steal." The really dangerous kind of copying, the kind that gives copying a bad name, is the kind that's done without realizing it, because you're nothing more than a train running on tracks laid down by someone else. But at the other extreme, copying can be a sign of superiority rather than subordination.[^25]
  
 In many fields it's almost inevitable that your early work will be in some sense based on other people's. Projects rarely arise in a vacuum. They're usually a reaction to previous work. When you're first starting out, you don't have any previous work; if you're going to react to something, it has to be someone else's. Once you're established, you can react to your own. But while the former gets called derivative and the latter doesn't, structurally the two cases are more similar than they seem. 
- 
+
+
+> [!NOTE] تازه‌واردها چاره‌ای جز کپی کردن ندارند
+> بهترین راه برای فهمیدن سازوکارها، کپی کردن است. وقتی چیزی را از اول خلق می‌کنیم، هم تک‌تک اجزای آن را می‌شناسیم و هم می‌بینیم که آن اجزا چطور برای ساختن کلیت به هم متصل می‌شوند. مثلاً برنامه‌نویس‌ها برای هر زبان [لیستی از پروژه‌ها](https://github.com/practical-tutorials/project-based-learning) دارند که با انجام هر یک به صورت شخصی، هم به محصول نهایی می‌رسند و هم یک دور ویژگی‌های آن زبان را یاد می‌گیرند. 
+> ‌
+> خلق کردن از صفر برای تازه‌واردها سخت است ([[مدل یادگیری بلوم]] هم همین را می‌گوید). قبل‌تر که به دانشجوها آموزش طراحی پوستر می‌دادم، به آن‌ها می‌گفتم که بروید و تلاش کنید پوسترهای رویدادها را از اول داخل فتوشاپ طراحی کنید. اینطور دیگر دیدن صفحهٔ خالی آزارشان نمی‌داد و تمرکزشان به سمت یادگیری تکنیک‌ها می‌رفت.
+> ‌
+> در بسیاری از شاخه‌ها، کار جدید بر پایهٔ کارهای قبلی است. ایده که از خلأ نمی‌آید! اکثر آن‌ها در واکنش به ایدهٔ دیگر یا ایده‌های قبلی خود شخص هستند. تازه‌کارها ایدهٔ قبلی ندارند. برای همین کارشان را بر پایهٔ کار دیگران تعریف می‌کنند و کم‌کم ایده‌های جدیدی در واکنش به ایده‌های قبلی خودشان خلق می‌کنند.
+
+
 Oddly enough, the very novelty of the most novel ideas sometimes makes them seem at first to be more derivative than they are. New discoveries often have to be conceived initially as variations of existing things, _even by their discoverers_, because there isn't yet the conceptual vocabulary to express them. 
  
 There are definitely some dangers to copying, though. One is that you'll tend to copy old things — things that were in their day at the frontier of knowledge, but no longer are. 
@@ -626,13 +639,24 @@ And when you do copy something, don't copy every feature of it. Some will make y
  
 Some of the features of things you admire are flaws they succeeded despite. Indeed, the features that are easiest to imitate are the most likely to be the flaws. 
  
-This is particularly true for behavior. Some talented people are jerks, and this sometimes makes it seem to the inexperienced that being a jerk is part of being talented. It isn't; being talented is merely how they get away with it. 
+This is particularly true for behavior. Some talented people are jerks, and this sometimes makes it seem to the inexperienced that being a jerk is part of being talented. It isn't; being talented is merely how they get away with it.
+
+
+> [!NOTE] مراقب کپی کردن از ایده‌های قدیمی یا اشتباه باشید
+> آن‌هایی که کپی صد درصدی می‌کنند، یادشان می‌رود که ممکن است قسمت‌های بد هم در این فرآیند کپی شوند. مثلاً اگر الگوی آدم شخص باهوش و بداخلاقی باشد، با کپی‌کاری خلق و خوی بدش هم منتقل می‌شود.
+> ‌
+> یک خطر دیگر کپی‌کاری، تمرکز روی ایده‌های پوسیده است. حرف‌هایی که زمانی مرز علم بودند، ممکن است دیگر امروز به درد کسی نخورند. خلاصه اینکه آدم باید آگاهانه کپی‌کاری کند.
+
  
 One of the most powerful kinds of copying is to copy something from one field into another. History is so full of chance discoveries of this type that it's probably worth giving chance a hand by deliberately learning about other kinds of work. You can take ideas from quite distant fields if you let them be metaphors. 
- 
+
+> [!NOTE] کپی کردن استعاره‌ها
+>یکی از بهترین راه‌های کپی کردن، بردن ایده‌های یک زمینه به زمینهٔ دیگر است. این کار همیشه جواب داده و باعث کشف‌های بزرگی شده است.
+
 Negative examples can be as inspiring as positive ones. In fact you can sometimes learn more from things done badly than from things done well; sometimes it only becomes clear what's needed when it's missing. 
 
----
+## بخش یازدهم: کار گروهی
+
 
 If a lot of the best people in your field are collected in one place, it's usually a good idea to visit for a while. It will increase your ambition, and also, by showing you that these people are human, increase your self-confidence.[^26]
  
@@ -640,7 +664,10 @@ If you're earnest you'll probably get a warmer welcome than you might expect. Mo
  
 It may take some effort to find the people who are really good, though. Doing great work has such prestige that in some places, particularly universities, there's a polite fiction that everyone is engaged in it. And that is far from true. People within universities can't say so openly, but the quality of the work being done in different departments varies immensely. Some departments have people doing great work; others have in the past; others never have.
 
----
+
+> [!NOTE] سر زدن به محفل اساتید
+> اگر آدم‌های کاردرست زمینهٔ کاری شما جایی دور هم جمع می‌شوند، ایدهٔ خوبی است که به آن‌ها سر بزنید. هم انگیزه می‌دهد و هم به صورت ضمنی می‌فهمید که می‌توانید مثل آن‌ها شوید. آدم‌هایی که در زمینهٔ خاصی جدی هستند، خیلی گرم و راحت از تازه‌واردها استقبال می‌کنند. پس نیازی به خجالت کشیدن نیست.
+
 
 Seek out the best colleagues. There are a lot of projects that can't be done alone, and even if you're working on one that can be, it's good to have other people to encourage you and to bounce ideas off. 
  
@@ -652,36 +679,65 @@ How do you know when you have sufficiently good colleagues? In my experience, wh
  
 Most of us can benefit from collaborating with colleagues, but some projects require people on a larger scale, and starting one of those is not for everyone. If you want to run a project like that, you'll have to become a manager, and managing well takes aptitude and interest like any other kind of work. If you don't have them, there is no middle path: you must either force yourself to learn management as a second language, or avoid such projects.[^27]
 
----
+
+> [!NOTE] هر کسی در نهایت شبیه همکاران خودش می‌شود
+> پس بهتر است که به دنبال بهترین همکارها بگردیم. در انتخاب همکار، کیفیت خیلی مهمتر از کمیت است. همکارهای عالی نیاز به شاخص خاصی ندارند؛ خیلی راحت قابل تشخیصند. اما به عنوان یک قاعدهٔ سرانگشتی، همکار خوب حرف‌ها و بینش‌های جدیدی دارد که آدم را حیرت‌زده می‌کند. یک ویژگی دیگرش این است که آدم بعد از مصاحبت با او نسبت به قبلش روحیهٔ بهتری دارد (البته که این ویژگی محدود به همکارها نیست).
+
+## بخش دوازدهم: روحیه
 
 Husband your morale. It's the basis of everything when you're working on ambitious projects. You have to nurture and protect it like a living organism. 
  
-Morale starts with your view of life. You're more likely to do great work if you're an optimist, and more likely to if you think of yourself as lucky than if you think of yourself as a victim. 
- 
+Morale starts with your view of life. You're more likely to do great work if you're an optimist, 
+and more likely to if you think of yourself as lucky than if you think of yourself as a victim. 
+
+> [!NOTE] روحیه زیربنای انجام کار بزرگ است
+> باید به آن رسیدگی و از آن مراقبت کرد. درست مثل یک موجود زنده. زیربنای خود روحیه، نگاه به دنیاست. انسان‌های خوش‌بین یا امیدوار در انجام کارها موفق‌ترند. برعکس کسی که خودش را قربانی می‌بیند، روحیه‌ای ندارد که با آن در برابر سختی‌های کار بزرگ تاب بیاورد.
+
+دربارهٔ روحیه، این بریده را هم از دکتر شفیعی کدکنی گوش کنید:
+
+![[شفیعی کدکنی-حاصل عمر.mp3]]
+
 Indeed, work can to some extent protect you from your problems. If you choose work that's pure, its very difficulties will serve as a refuge from the difficulties of everyday life. If this is escapism, it's a very productive form of it, and one that has been used by some of the greatest minds in history. 
  
 Morale compounds via work: high morale helps you do good work, which increases your morale and helps you do even better work. But this cycle also operates in the other direction: if you're not doing good work, that can demoralize you and make it even harder to. Since it matters so much for this cycle to be running in the right direction, it can be a good idea to switch to easier work when you're stuck, just so you start to get something done. 
- 
+
 One of the biggest mistakes ambitious people make is to allow setbacks to destroy their morale all at once, like a balloon bursting. You can inoculate yourself against this by explicitly considering setbacks a part of your process. Solving hard problems always involves some backtracking. 
- 
+
+> [!NOTE]  بین روحیه و کیفیت کار [[حلقهٔ تشدیدی - Reinforcing Feedback Loop|هم‌افزایی]] وجود دارد
+> هر چقدر روحیه بهتر باشد، کار بهتر انجام می‌شود و هر چقدر کار بهتر جلو برود، روحیه پروبال می‌گیرد. برعکسش هم صادق است. بعضی اوقات شکست‌ها روحیه را تضعیف می‌کنند. بعضی‌ها به محض شکست خوردن، مثل بادکنکی که می‌ترکد، یهویی همهٔ روحیهٔ خودشان را از دست می‌دهند. البته که آدم‌هایی که کار بزرگ می‌کنند الزاماً از بقیه خوشحال‌تر نیستند. اما کسی که باهوش و بااستعداد باشد و کار نکند، به شدت افسرده و تلخ‌مزاج خواهد شد.
+> ‌
+> در زمان‌های شکست، بهتر است آدم کمی به عقب (اصل مسأله) برود و یک بار دیگر به آن حمله کند. یا اینکه اصلاً خودش را سرگرم با مسائل دیگری بکند تا روحیه‌اش برگردد.
+
+
 Doing great work is a depth-first search whose root node is the desire to. So "If at first you don't succeed, try, try again" isn't quite right. It should be: If at first you don't succeed, either try again, or backtrack and then try again. 
  
 "Never give up" is also not quite right. Obviously there are times when it's the right choice to eject. A more precise version would be: Never let setbacks panic you into backtracking more than you need to. Corollary: Never abandon the root node. 
  
 It's not necessarily a bad sign if work is a struggle, any more than it's a bad sign to be out of breath while running. It depends how fast you're running. So learn to distinguish good pain from bad. Good pain is a sign of effort; bad pain is a sign of damage.
 
----
+
+> [!NOTE] استراتژی تراکتوری همیشه جواب نمی‌دهد
+> اینکه می‌گویند «هیچ‌وقت تسلیم نشو» یا «انقدر تلاش کن تا بالاخره پیروز شوی» همیشه درست نیست. گاهی اوقات باید چند قدم به عقب برداشت و دوباره شرایط را سنجید. درست مثل عقب‌نشینی‌های استراتژیک دوران جنگ. درد کشیدن و سختی همیشه نشانهٔ پیشرفت نیست. مثلاً در بدنسازی دو مدل درد داریم. یک درد موقت هست که حین وزنه زدن حس می‌کنیم و بعدتر هم از بین می‌رود. این درد، نشانهٔ پاره شدن بافت‌ها و نوید رشد آن‌هاست. اما درد دیگری هم هست که نشانهٔ زیاده‌روی است و بعد از ورزش هم در بدن می‌ماند. کسی که بین این دو درد قدرت تشخیص نداشته باشد، یا به کلی سمت ورزش نمی‌رود یا همان دفعهٔ اول خودش را ناکار می‌کند.
+
+## بخش سیزدهم: مخاطب
 
 An audience is a critical component of morale. If you're a scholar, your audience may be your peers; in the arts, it may be an audience in the traditional sense. Either way it doesn't need to be big. The value of an audience doesn't grow anything like linearly with its size. Which is bad news if you're famous, but good news if you're just starting out, because it means a small but dedicated audience can be enough to sustain you. If a handful of people genuinely love what you're doing, that's enough. 
  
 To the extent you can, avoid letting intermediaries come between you and your audience. In some types of work this is inevitable, but it's so liberating to escape it that you might be better off switching to an adjacent type if that will let you go direct.[^28]
  
 The people you spend time with will also have a big effect on your morale. You'll find there are some who increase your energy and others who decrease it, and the effect someone has is not always what you'd expect. Seek out the people who increase your energy and avoid those who decrease it. Though of course if there's someone you need to take care of, that takes precedence. 
- 
+
 Don't marry someone who doesn't understand that you need to work, or sees your work as competition for your attention. If you're ambitious, you need to work; it's almost like a medical condition; so someone who won't let you work either doesn't understand you, or does and doesn't care. 
+
+> [!NOTE] مخاطب جزئی اساسی از روحیه است
+> کار مخاطب، افزایش روحیه است. سر مخاطب هم کیفیت از کمیت مهم‌تر است. بعضی‌ها با داشتن یک مخاطب پیگیر هم کلی روحیه می‌گیرند. هر چقدر فاصلهٔ ما با مخاطبمان کمتر باشد، بازخورد آن‌ها با نویز کمتری به ما می‌رسد. یکی از مخاطبان اصلی کار هر کس، همسر و همدم اوست. اگر او متوجه میل و انگیزه شما به انجام کارها نشود، ممکن است بعداً به مشکل بخورید.
  
 Ultimately morale is physical. You think with your body, so it's important to take care of it. That means exercising regularly, eating and sleeping well, and avoiding the more dangerous kinds of drugs. Running and walking are particularly good forms of exercise because they're good for thinking.[^29]
- 
+
+> [!NOTE] روحیه با فعالیت فیزیکی در تناسب است
+> عقل سالم در بدن سالم! تغذیه، استراحت، ورزش و زندگی سالم است که روحیه می‌سازد.
+
+
 People who do great work are not necessarily happier than everyone else, but they're happier than they'd be if they didn't. In fact, if you're smart and ambitious, it's dangerous _not_ to be productive. People who are smart and ambitious but don't achieve much tend to become bitter.
 
 ---
@@ -694,7 +750,13 @@ Competition can be an effective motivator, but don't let it choose the problem f
  
 Curiosity is the best guide. Your curiosity never lies, and it knows more than you do about what's worth paying attention to. 
 
----
+> [!NOTE] هر مخاطبی ارزش وقت گذاشتن ندارد
+> مخاطب عمومی نویز زیادی تولید می‌کند. مثلاً ممکن است کار مهمی را بی‌کلاس جلوه دهد یا کارهای بیهوده را مهم به حساب بیاورد. بهتر است آدم مخاطب‌های خاصش را انتخاب کند و رفت‌وبرگشت‌هایش را با آن‌ها تنظیم کند.
+> ‌
+> توجه به رقیب هم فایدهٔ خاصی ندارد. چرا که در بلندمدت ممکن است در بازی آن‌ها غرق شویم. تنها آوردهٔ رقیب، انگیزهٔ مضاعف برای انجام همان کاری است که به آن مشغولیم. بهتر است توجه آدم به کنجکاوی خودش باشد. قوهٔ کنجکاوی هیچ‌گاه دروغ نمی‌گوید و بی‌نهایت دقیق و نقطه‌زن است.
+
+
+## بخش چهاردهم: جمع‌بندی
 
 Notice how often that word has come up. If you asked an oracle the secret to doing great work and the oracle replied with a single word, my bet would be on "curiosity." 
  
@@ -702,27 +764,40 @@ That doesn't translate directly to advice. It's not enough just to be curious, a
  
 Curiosity is the key to all four steps in doing great work: it will choose the field for you, get you to the frontier, cause you to notice the gaps in it, and drive you to explore them. The whole process is a kind of dance with curiosity. 
 
+> [!NOTE] کنجکاوی کلید انجام کارهای بزرگ است
+> اگر قرار بود پیشگویی از راز «پیش‌نیاز انجام کارهای بزرگ» پرده‌برداری کند، قطعاً «کنجکاوی» را انتخاب می‌کرد. کنجکاوی در هر چهارمرحلهٔ انجام کار بزرگ (انتخاب زمینه، رسیدن به مرزها، توجه به خلأها و جستجو برای جواب) در کنار ماست.
+> ‌
+> کنجکاوی با کنجکاوی رشد می‌کند. قابل جهت‌دهی هم نیست. مثل احساسات است. هر چقدر به آن بهای بیشتری بدهیم، ظهور و بروز بیشتری پیدا می‌کند. باید دستش را باز گذاشت تا انسان را با خودش ببرد.
+
 ---
 
 Believe it or not, I tried to make this essay as short as I could. But its length at least means it acts as a filter. If you made it this far, you must be interested in doing great work. And if so you're already further along than you might realize, because the set of people willing to want to is small. 
  
 The factors in doing great work are factors in the literal, mathematical sense, and they are: ability, interest, effort, and luck. Luck by definition you can't do anything about, so we can ignore that. And we can assume effort, if you do in fact want to do great work. So the problem boils down to ability and interest. Can you find a kind of work where your ability and interest will combine to yield an explosion of new ideas? 
- 
+
+> [!NOTE] روی هم افتادن علاقه و استعداد
+> چهار فاکتور برای انجام کار بزرگ لازمند: استعداد، علاقه، تلاش و شانس. آخری که دست ما نیست. تلاش هم که واجب است. می‌ماند توانایی و علاقه. کار بزرگ شما باید در زمینه‌ای اتفاق بیفتد که این دو عامل به صورت همزمان وجود دارند.
+
 Here there are grounds for optimism. There are so many different ways to do great work, and even more that are still undiscovered. Out of all those different types of work, the one you're most suited for is probably a pretty close match. Probably a comically close match. It's just a question of finding it, and how far into it your ability and interest can take you. And you can only answer that by trying. 
  
 Many more people could try to do great work than do. What holds them back is a combination of modesty and fear. It seems presumptuous to try to be Newton or Shakespeare. It also seems hard; surely if you tried something like that, you'd fail. Presumably the calculation is rarely explicit. Few people consciously decide not to try to do great work. But that's what's going on subconsciously; they shy away from the question. 
- 
+
 So I'm going to pull a sneaky trick on you. Do you want to do great work, or not? Now you have to decide consciously. Sorry about that. I wouldn't have done it to a general audience. But we already know you're interested. 
  
 Don't worry about being presumptuous. You don't have to tell anyone. And if it's too hard and you fail, so what? Lots of people have worse problems than that. In fact you'll be lucky if it's the worst problem you have. 
  
 Yes, you'll have to work hard. But again, lots of people have to work hard. And if you're working on something you find very interesting, which you necessarily will if you're on the right path, the work will probably feel less burdensome than a lot of your peers'. 
  
+> [!NOTE] ترس و تواضع آدم‌ها را از انجام کار بزرگ بازمی‌دارد
+> آیا کسی خیالش را هم می‌کند که در غزل به سعدی برسد؟ یا از انیشتین دانشمند بزرگتری باشد؟ اکثر آدم‌ها همان اوایل کار به صورت ناخودآگاه در ذهنشان به این سؤال‌ها پاسخ منفی می‌دهند. بی‌راه هم نیست. خیلی متکبرانه به نظر می‌آید که کسی که اول خط است ادعا کند که می‌خواهد از بزرگان تاریخ جلو بزند…
+> ‌
+> برای تویی که تا انتهای این متن را خوانده‌ای،  سؤال مهمتری هست که باید پاسخ بدهی. بالاخره می‌خواهی کار بزرگ بکنی یا نه؟ لازم هم نیست کسی جز خودت جوابت را بداند که نگران تکبرش باشی. گیریم که سخت باشد و شکست هم بخوری. که چی؟ خیلی از آدم‌ها سختی‌های صدبرابر بدتری را تجربه می‌کنند. آدم باید خوش‌شانس باشد که سر انجام کاری بزرگ ناراحت شود. 
+
 The discoveries are out there, waiting to be made. Why not by you? 
 
 
 [^1]: I don't think you could give a precise definition of what counts as great work. Doing great work means doing something important so well that you expand people's ideas of what's possible. But there's no threshold for importance. It's a matter of degree, and often hard to judge at the time anyway. So I'd rather people focused on developing their interests rather than worrying about whether they're important or not. Just try to do something amazing, and leave it to future generations to say if you succeeded. 
-[^2]: A lot of standup comedy is based on noticing anomalies in everyday life. "Did you ever notice...?" New ideas come from doing this about nontrivial things. Which may help explain why people's reaction to a new idea is often the first half of laughing: Ha! 
+[^2]: A lot of standup comedy is based on noticing anomalies in everyday life. "Did you ever notice…?" New ideas come from doing this about nontrivial things. Which may help explain why people's reaction to a new idea is often the first half of laughing: Ha! 
 [^3]: That second qualifier is critical. If you're excited about something most authorities discount, but you can't give a more precise explanation than "they don't get it," then you're starting to drift into the territory of cranks. 
 [^4]: Finding something to work on is not simply a matter of finding a match between the current version of you and a list of known problems. You'll often have to coevolve with the problem. That's why it can sometimes be so hard to figure out what to work on. The search space is huge. It's the cartesian product of all possible types of work, both known and yet to be discovered, and all possible future versions of you. There's no way you could search this whole space, so you have to rely on heuristics to generate promising paths through it and hope the best matches will be clustered. Which they will not always be; different types of work have been collected together as much by accidents of history as by the intrinsic similarities between them. 
 [^5]: There are many reasons curious people are more likely to do great work, but one of the more subtle is that, by casting a wide net, they're more likely to find the right thing to work on in the first place. 
