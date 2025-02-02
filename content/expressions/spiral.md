@@ -32,6 +32,8 @@ date: 2024-05-26
 
 <blockquote class="english-blockquote">The path isn’t a straight line; it’s a spiral. You continually come back to things you thought you understood and see deeper truths.<footer class="english-footer">‌Barry H. Gillespie</footer></blockquote>
 
+رفتار مارپیچی یعنی مدام تازه شروع کردن. شروع‌های جدید به ما اجازه می‌دهند که الگوهای تکرارشوندهٔ بد یا قدیمی را کنار بگذاریم و هر چه در دور قبل یاد گرفته‌ایم از نو به کار بگیریم. ورود به مدرسهٔ جدید یا دانشگاه، ازدواج، تغییر شغل، مهاجرت و امثال این‌ها، همه فرصت‌های تازه‌ای برای شروع هستند. البته برای کسی که اهلش باشد، هر روز فرصت تازه‌ای است؛ اما گاهی فشار محیط به قدری زیاد است که تنها با تغییر فضا شروع تازه میسر می‌شود.
+
 
 دربارهٔ مارپیچ بیشتر بخوانید:
 
