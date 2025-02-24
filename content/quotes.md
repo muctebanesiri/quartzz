@@ -99,7 +99,10 @@ date: 2024-05-18
 
 <blockquote class="farsi-blockquote">نوشتهٔ خوب خبری است که خبر می‌ماند.<footer class="farsi-footer">ازرا پاوند</footer></blockquote>
 
+
 <div class='poem-verse-div'><div class='poem-right-verse-div'>ماییم که از بادهٔ بی‌جام خوشیم</div><div class='poem-left-verse-div'>هر صبح منوریم و هر شام خوشیم</div></div><div class='poem-verse-div'><div class='poem-right-verse-div'>گویند سرانجام ندارید شما</div><div class='poem-left-verse-div'>ماییم که بی هیچ سرانجام خوشیم</div></div>
+
+<br>
 
 
 <blockquote class="english-blockquote">I make all my decisions on intuition. But then, I must know why I made that decision. I throw a spear into the darkness. That is intuition. Then I must send an army into the darkness to find the spear. That is intellect.<footer class="english-footer">Ingmar Bergman</footer></blockquote>
