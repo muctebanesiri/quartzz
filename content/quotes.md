@@ -63,6 +63,10 @@ date: 2024-05-18
 
 <blockquote class="english-blockquote">A players hire A players, B players hire C players, and C players hire losers. Let your standards slip once and you're only two generations away from death.<footer class="english-footer">Joe Kraus</footer></blockquote>
 
+<blockquote class="farsi-blockquote">کفرِ متحرک، به اسلام می‌رسد ولی اسلامِ راکد، پدربزرگِ کفر است.<footer class="farsi-footer">علی صفایی حائری، حرکت</footer></blockquote>
+
+
+
 <blockquote class="english-blockquote">I learned that courage was not the absence of fear, but the triumph over it. The brave man is not he who does not feel afraid, but he who conquers that fear.<footer class="english-footer">Nelson Mandella</footer></blockquote>
 
 <blockquote class="english-blockquote">A writer must think that all things have been given to us for a purpose. All that happens to us, including our humiliations, our misfortunes, our embarrassments, all is given to us as raw material, as clay, so that we may shape our art.<footer class="english-footer">Jorge Luis Borges, 1983</footer></blockquote>
@@ -104,5 +108,7 @@ date: 2024-05-18
 
 <br>
 
-
 <blockquote class="english-blockquote">I make all my decisions on intuition. But then, I must know why I made that decision. I throw a spear into the darkness. That is intuition. Then I must send an army into the darkness to find the spear. That is intellect.<footer class="english-footer">Ingmar Bergman</footer></blockquote>
+
+<blockquote class="farsi-blockquote">اَلنّاسُ بِاُمَرائِهِمْ اَشْبَهُ مِنْهُمْ بِآبائِهِمْ - مردم، به حاکمان خود شبيه‌ترند تا به پدرانشان<footer class="farsi-footer">امام علی علیه‌السلام</footer></blockquote>
+
