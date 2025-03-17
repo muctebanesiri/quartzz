@@ -607,7 +607,7 @@ pre:has(>code.mermaid) .clipboard-button {
 }
 
 // Tablet styles
-@media (min-width: variables.$mobileBreakpoint) and (max-width: variables.$desktopBreakpoint - 1px) {
+@media (min-width: variables.$mobileBreakpoint) and (max-width: calc(variables.$desktopBreakpoint - 1px)) {
     .title-logo {
         flex-direction: row;
         align-items: center;
