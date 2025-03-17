@@ -3,6 +3,26 @@
 
 // put your custom CSS here!
 
+// Responsive breakpoints
+// Use these mixins for consistent responsive behavior throughout the site
+@mixin mobile {
+  @media (max-width: variables.$mobileBreakpoint - 1px) {
+    @content;
+  }
+}
+
+@mixin tablet {
+  @media (min-width: variables.$mobileBreakpoint) and (max-width: variables.$desktopBreakpoint - 1px) {
+    @content;
+  }
+}
+
+@mixin desktop {
+  @media (min-width: variables.$desktopBreakpoint) {
+    @content;
+  }
+}
+
 html {
     font-family: Vazirmatn, sans-serif !important;
 }
@@ -595,7 +615,16 @@ pre:has(>code.mermaid) .clipboard-button {
         width: 150px;
     }
     
-    @include mobile, tablet {
+    @include mobile {
+        flex-direction: row;
+        align-items: center;
+        
+        img {
+            width: 75px;
+        }
+    }
+    
+    @include tablet {
         flex-direction: row;
         align-items: center;
         
@@ -606,7 +635,11 @@ pre:has(>code.mermaid) .clipboard-button {
 }
 
 #header-text {
-    @include mobile, tablet {
+    @include mobile {
+        overflow-wrap: unset;
+    }
+    
+    @include tablet {
         overflow-wrap: unset;
     }
 }
@@ -634,24 +667,4 @@ pre:has(>code.mermaid) .clipboard-button {
     .darkmode {
         right: 40%;
     }
-}
-
-// Responsive breakpoints
-// Use these mixins for consistent responsive behavior throughout the site
-@mixin mobile {
-  @media (max-width: variables.$mobileBreakpoint - 1px) {
-    @content;
-  }
-}
-
-@mixin tablet {
-  @media (min-width: variables.$mobileBreakpoint) and (max-width: variables.$desktopBreakpoint - 1px) {
-    @content;
-  }
-}
-
-@mixin desktop {
-  @media (min-width: variables.$desktopBreakpoint) {
-    @content;
-  }
 }
