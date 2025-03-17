@@ -26,7 +26,7 @@ cssclasses:
 *متن‌ها و ایده‌های گذرا*
 
 - [[the-undersoul|زیرزمین روح]]
-- [[new-manager-paradox|کارمند نمونه، مدیر درمانده]]
+- [[new-manager-paradox|مدیریت با ذهن کارمندی]]
 
 # 📝 جستارهای من
 
