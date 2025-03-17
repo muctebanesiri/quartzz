@@ -642,26 +642,3 @@ pre:has(>code.mermaid) .clipboard-button {
         right: 40%;
     }
 }
-
-// Override desktop-only and mobile-only classes
-.desktop-only {
-  display: initial;
-  @media all and (max-width: variables.$desktopBreakpoint) {
-    display: none;
-  }
-}
-
-.mobile-only {
-  display: none;
-  @media all and (max-width: variables.$desktopBreakpoint) {
-    display: initial;
-  }
-}
-
-// Add a new tablet-only class if needed
-.tablet-only {
-  display: none;
-  @media all and (min-width: variables.$mobileBreakpoint) and (max-width: calc(variables.$desktopBreakpoint - 1px)) {
-    display: initial;
-  }
-}
