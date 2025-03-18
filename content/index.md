@@ -27,6 +27,7 @@ cssclasses:
 
 - [[the-undersoul|زیرزمین روح]]
 - [[new-manager-paradox|مدیریت با ذهن کارمندی]]
+- [[perspective-calibration|تنظیم پرسپکتیو]]
 
 # 📝 جستارهای من
 

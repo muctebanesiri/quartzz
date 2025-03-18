@@ -642,3 +642,87 @@ pre:has(>code.mermaid) .clipboard-button {
         right: 40%;
     }
 }
+
+// Image Grid 
+.img-grid, article.img-grid {
+    // Handle images directly in paragraphs
+    > p {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 0.5rem;
+        margin-top: 0.5rem;
+        margin-bottom: 0.5rem;
+        
+        > img {
+            flex: 1;
+            min-width: 200px;
+            width: 100%;
+            object-fit: cover;
+            margin: 0;
+        }
+    }
+    
+    // Keep the existing selectors for compatibility
+    article > div:has(> img) {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 0.5rem;
+    }
+    
+    article > div:has(> img) > * {
+        flex: 1;
+        min-width: 200px;
+        margin-block-start: 0;
+        margin-block-end: 0;
+    }
+    
+    article > div:has(> img) > img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+    }
+    
+    // Make sure paragraphs with images inside are properly handled
+    article > div:has(> p:has(> img)) {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 0.5rem;
+    }
+    
+    article > div:has(> p:has(> img)) > p {
+        flex: 1;
+        min-width: 200px;
+        margin-block-start: 0;
+        margin-block-end: 0;
+    }
+    
+    article > div:has(> p:has(> img)) > p > img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+    }
+    
+    // Support for internal embeds that contain images
+    article > div:has(> .internal-embed:has(> img)) {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 0.5rem;
+    }
+    
+    article > div:has(> .internal-embed:has(> img)) > .internal-embed {
+        flex: 1;
+        min-width: 200px;
+        margin-block-start: 0;
+        margin-block-end: 0;
+        padding: 0;
+        background-color: transparent;
+    }
+    
+    article > div:has(> .internal-embed:has(> img)) > .internal-embed > img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+    }
+}
+
+
