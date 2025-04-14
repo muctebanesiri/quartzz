@@ -29,6 +29,7 @@ cssclasses:
 - [[new-manager-paradox|مدیریت با ذهن کارمندی]]
 - [[perspective-calibration|تنظیم پرسپکتیو]]
 - [[against-omnitools|علیه ابزارهای همه‌کاره]]
+- [[upward-spit|تف سربالا]]
 
 # 📝 جستارهای من
 
