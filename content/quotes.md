@@ -111,4 +111,3 @@ date: 2024-05-18
 <blockquote class="english-blockquote">I make all my decisions on intuition. But then, I must know why I made that decision. I throw a spear into the darkness. That is intuition. Then I must send an army into the darkness to find the spear. That is intellect.<footer class="english-footer">Ingmar Bergman</footer></blockquote>
 
 <blockquote class="farsi-blockquote">اَلنّاسُ بِاُمَرائِهِمْ اَشْبَهُ مِنْهُمْ بِآبائِهِمْ - مردم، به حاکمان خود شبيه‌ترند تا به پدرانشان<footer class="farsi-footer">امام علی علیه‌السلام</footer></blockquote>
-
