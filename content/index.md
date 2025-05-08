@@ -30,6 +30,7 @@ cssclasses:
 - [[perspective-calibration|تنظیم پرسپکتیو]]
 - [[against-omnitools|علیه ابزارهای همه‌کاره]]
 - [[upward-spit|تف سربالا]]
+- [[against-gatekeepers|علیه کاهنان]]
 
 # 📝 جستارهای من
 
