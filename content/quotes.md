@@ -104,14 +104,13 @@ date: 2024-05-18
 <blockquote class="farsi-blockquote">نوشتهٔ خوب خبری است که خبر می‌ماند.<footer class="farsi-footer">ازرا پاوند</footer></blockquote>
 
 
-<div class='poem-verse-div'><div class='poem-right-verse-div'>ماییم که از بادهٔ بی‌جام خوشیم</div><div class='poem-left-verse-div'>هر صبح منوریم و هر شام خوشیم</div></div><div class='poem-verse-div'><div class='poem-right-verse-div'>گویند سرانجام ندارید شما</div><div class='poem-left-verse-div'>ماییم که بی هیچ سرانجام خوشیم</div></div>
-
-<br>
-
 <blockquote class="english-blockquote">I make all my decisions on intuition. But then, I must know why I made that decision. I throw a spear into the darkness. That is intuition. Then I must send an army into the darkness to find the spear. That is intellect.<footer class="english-footer">Ingmar Bergman</footer></blockquote>
 
 <blockquote class="farsi-blockquote">اَلنّاسُ بِاُمَرائِهِمْ اَشْبَهُ مِنْهُمْ بِآبائِهِمْ - مردم، به حاکمان خود شبيه‌ترند تا به پدرانشان<footer class="farsi-footer">امام علی علیه‌السلام</footer></blockquote>
 
 
 <blockquote class="english-blockquote">People who don't take risks generally make about two big mistakes a year. People who do take risks generally make about two big mistakes a year.<footer class="english-footer">Peter Drucker</footer></blockquote>
+
+
+<blockquote class="english-blockquote">Yet if the only form of tradition, of handing down, consisted in following the ways of the immediate generation before us in a blind or timid adherence to its successes, "tradition" should positively be discouraged. We have seen many such simple currents soon lost in the sand; and novelty is better than repetition. Tradition is a matter of much wider significance. It cannot be inherited, and if you want it you must obtain it by great labour.<footer class="english-footer">T.S. Elliot, Tradition and the Individual Talent</footer></blockquote>
 
