@@ -583,6 +583,10 @@ pre:has(>code.mermaid) .clipboard-button {
     direction: ltr;
 }
 
+.katex {
+    direction: ltr;
+}
+
 // title logo
 .title-logo {
     display: flex;
