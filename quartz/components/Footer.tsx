@@ -28,7 +28,7 @@ export default ((opts?: Options) => {
           </div>
           <div class="about-div">
               <a href="/about">
-                ɛ
+                درباره
               </a>
           </div>
         </p>
