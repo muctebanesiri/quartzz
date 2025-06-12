@@ -23,7 +23,7 @@ export const sharedPageComponents: SharedLayout = {
   footer: Component.Footer({
     links: {
       // "آپارات": "https://www.aparat.com/Crystalline",
-      // "گیت‌هاب": "https://github.com/eledah",
+      // "گیت‌هاب": "https://github.com/muctebanesiri",
     },
   }),
 }
