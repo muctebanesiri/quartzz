@@ -1,5 +1,5 @@
 ---
-title: موجتبا
+title: مجتبی
 cssclasses:
   - index
 ---
