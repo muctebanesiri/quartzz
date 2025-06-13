@@ -2,6 +2,7 @@
 title: مجتبی
 cssclasses:
   - index
+draft: false
 ---
 # 🌳 کاوش‌ها و آموخته‌ها
 
