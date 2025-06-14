@@ -13,7 +13,7 @@ const PageTitle: QuartzComponent = ({ fileData, cfg, displayClass }: QuartzCompo
         <a href={baseDir} class={displayClass} id="header-text">
           {title}
         </a>
-      </div>npx quartz sync
+      </div>
     </h1>
   )
 }
