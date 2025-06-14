@@ -1,10 +1,10 @@
 ---
 title: مجتبی
-cssclasses: rtl-class
+cssclasses:
   - index
 draft: false
 ---
-# 🐈‍⬛️ پادکست پیشیه‌یولو
+# 🐈 پادکست پیشیه‌یولو
 
 *پژوهش‌هایی در جریان، برای درک بهتر جهان*
 
