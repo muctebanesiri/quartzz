@@ -1,6 +1,6 @@
 ---
 title: مجتبی
-cssclasses:
+cssclasses: rtl
   - index
 draft: false
 ---
