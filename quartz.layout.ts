@@ -12,17 +12,17 @@ export const sharedPageComponents: SharedLayout = {
         // from data-repo
         repo: 'muctebanesiri/quartz',
         // from data-repo-id
-        repoId: 'R_kgDOLxbW_g',
+        repoId: 'R_kgDOO6vOAQ',
         // from data-category
         category: 'Announcements',
         // from data-category-id
-        categoryId: 'DIC_kwDOLxbW_s4ChRbJ',
+        categoryId: 'DIC_kwDOO6vOAc4Crhth',
       }
     }),
   ],
   footer: Component.Footer({
     links: {
-      // "یوتیوب": "https://www.aparat.com/Crystalline",
+      // "یوتیوب": "https://www.youtube.com/@muctebanesiri",
       // "گیت‌هاب": "https://github.com/muctebanesiri",
     },
   }),
