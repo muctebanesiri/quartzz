@@ -1,14 +1,9 @@
 ---
-title: "Rehber: ADB [Bilgisayar gerektirir] ile root atmadan ve bootloader açmadan sistem uygulamarını [bloatware] kaldırın [sadece android]"
-source: "https://www.reddit.com/r/KGBTR/comments/xgix1y/rehber_adb_bilgisayar_gerektirir_ile_root_atmadan/"
-author:
-  - "[[IamSedatPeker]]"
-published: 2022-09-17
-created: 2025-06-11
-description:
-tags:
-  - "clippings"
+title: bloatware
+cssclasses:
+  - ltr-class
 ---
+
 Bu rehberi yazmak için yaklaşık 40 dakika vakit harcadım. 40 dakika uğraştığım bir postun 10 upvote alıp kimse tarafından görülmemesini istemem. Bu şeyi engellemek için posta upvote "eğer mümkünse all seeing award" atmanız yeterli. Bu sayede post herkes tarafından görülür.
 
 # Bloatware nedir? Giriş.
