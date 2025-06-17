@@ -1,3 +1,12 @@
+---
+title: Bilgisayar ve telefonda VPN kullanmadan Yasaklı sitelere girme.
+draft: false
+tags:
+  - reddit
+  - tutorial
+date:
+---
+
 <blockquote class="english-blockquote">
 
 
@@ -76,4 +85,4 @@ En son denediğimde oldu. ISP'ye göre değişiklik gösterebilir. Maalesef tele
 3: başka bir sebep bulamadım
 
 Bu arada posta up atarsanız milleti OperaVPN bokundan kurtarmış olursunuz ve postu hot'a çıkartmış olursunuz. Bu sayede postu herkes görür.
-<footer class="english-footer">Source</footer></blockquote>
+<footer class="english-footer">reddit</footer></blockquote>
