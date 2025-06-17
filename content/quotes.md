@@ -15,13 +15,11 @@ date: 2024-05-18
 
 <blockquote class="english-blockquote">I cannot remember the books I've read any more than the meals I have eaten; even so, they have made me.<footer class="english-footer">Ralph Waldo Emerson</footer></blockquote>
 
-<blockquote class="farsi-blockquote">لذایذ دنیا برای انسان آفریده شده اند، نه انسان برای آن ها و آن ها باید به دنبال انسان باشند، نه انسان به دنبال آن ها.  <footer class="farsi-footer">سید محمدحسین طباطبائی، شیعه در اسلام</footer></blockquote>
 
-<blockquote class="farsi-blockquote">این نکته را هم عرض کنم که گاهی بعضی از افراد بی همت به دلیل اینکه عرضه ندارند، به دلیل اینکه همّ ندارند، به دلیل اینکه مرد نیستند، وقتی آدمی را میبینند که دنبال جمع کردن ثروت میرود، تحقیرش میکنند، به او میخندند، آیات زهد را میخوانند، دم از تقوا و زهد میزنند، میخواهند مغالطه کنند. نه آقا! او که دنبال جمع کردن ثروت میرود، با همان حرص و حالت دنیاپرستی هم میرود، از توی ضعیف‌همت و دون همت گداصفت بالاتر است، از تو با شخصیت تر است. او نسبت به آن مردی که همتش ازین بالاتر است، مذموم است.<footer class="farsi-footer">مرتضی مطهری آزادی معنوی</footer></blockquote>
 
 <blockquote class="farsi-blockquote">چو علم آموختی از حرص آن گه ترس کاندر شب | چو دزدی با چراغ آید گزیده‌تر برد کالا<footer class="farsi-footer">قصیدهٔ ۷ ثنایی - در مقام اهل توحید</footer></blockquote>
 
-<blockquote class="farsi-blockquote">بیشتر از آنچه می‌خوانید، فکر کنید. اگر به صِرف خواندن عادت کنید، در بین متن‌ها و سطرها محدود می‌شوید. آن‌وقت نوآور نمی‌شوید.<footer class="farsi-footer">محمدباقر صدر</footer></blockquote>
+
 
 <blockquote class="english-blockquote">Love is a striking example of how little reality means to us.<footer class="english-footer">Marcel Proust, In Search of Lost Time</footer></blockquote>
 
@@ -33,7 +31,7 @@ date: 2024-05-18
 
 <blockquote class="english-blockquote">For the sake of the roses, we water the thorns</blockquote>
 
-<blockquote class="farsi-blockquote">قوم ایرانی، هرگاه در هیچ عرصه‌ای زورش نرسد، به طنز رو می‌آورد و همه چیز را به ریشخند می‌گیرد.<footer class="farsi-footer">یوسفعلی میرشکاک</footer></blockquote>
+
 
 <blockquote class="english-blockquote">If you want to make a living flower, you don't build it physically, with tweezers, cell by cell. You grow it from the seed<footer class="english-footer">Timeless Way of Building - Christopher Alexander</footer></blockquote>
 
@@ -45,7 +43,6 @@ date: 2024-05-18
 
 <blockquote class="farsi-blockquote">عقل گوید شش جهت حدست و بیرون راه نیست | عشق گوید راه هست و رفته‌ام من بارها<footer class="farsi-footer">غزل ۱۳۲ دیوان شمس</footer></blockquote>
 
-<blockquote class="farsi-blockquote">با برتری علمی و اقتصادی و سیاسی جهان غرب بر کشور ما و کشورهای مشابه ـ و بهمراه صادرات فرنگ که ساخته‌های دست ماشین‌های عظیم‌اند و نیز بعنوان کمک‌های فنی و غیرفنی نفوذ تمدن و هنر جهان مزبور نیز باینگونه کشورها بارمغان آمده است و بارها در همین مجله باین مطلب اشاره گشته ـ شاید هم کار بجائی رسیده است که بقول «تیبورمن» در کتاب «ترس و امید» در ما یکنوع احساس حقارت در برابر آنکه و آنچه غربیست پدید آمده… چنانکه ما از حال همسایگان نزدیک خود که سرنوشتی نظیر ما دارند بی‌اطلاعیم در حالیکه از آخرین دلقک‌بازیهائی که در فلان محله فلان شهر فرنگی میشود آگاه.<footer class="farsi-footer">سیمین دانشور، دربارهٔ رنگ محل</footer></blockquote>
 
 <blockquote class="english-blockquote">If they can get you asking the wrong questions, they don't have to worry about answers.<footer class="english-footer">Thomas Pynchon's Gravity's Rainbow (1973), Proverbs for Paranoids</footer></blockquote>
 
@@ -63,7 +60,6 @@ date: 2024-05-18
 
 <blockquote class="english-blockquote">A players hire A players, B players hire C players, and C players hire losers. Let your standards slip once and you're only two generations away from death.<footer class="english-footer">Joe Kraus</footer></blockquote>
 
-<blockquote class="farsi-blockquote">کفرِ متحرک، به اسلام می‌رسد ولی اسلامِ راکد، پدربزرگِ کفر است.<footer class="farsi-footer">علی صفایی حائری، حرکت</footer></blockquote>
 
 
 
@@ -75,8 +71,6 @@ date: 2024-05-18
 
 <blockquote class="english-blockquote">Without education, we are in a horrible and deadly danger of taking educated people seriously.<footer class="english-footer">G.K. Chesterton</footer></blockquote>
 
-<blockquote class="english-blockquote">Irony and cynicism were just what the U.S. hypocrisy of the fifties and sixties called for. That’s what made the early postmodernists great artists. The great thing about irony is that it splits things apart, gets up above them so we can see the flaws and hypocrisies and duplicates. The virtuous always triumph? Ward Cleaver is the prototypical fifties father? "Sure." Sarcasm, parody, absurdism and irony are great ways to strip off stuff’s mask and show the unpleasant reality behind it. The problem is that once the rules of art are debunked, and once the unpleasant realities the irony diagnoses are revealed and diagnosed, "then" what do we do? Irony’s useful for debunking illusions, but most of the illusion-debunking in the U.S. has now been done and redone. Once everybody knows that equality of opportunity is bunk and Mike Brady’s bunk and Just Say No is bunk, now what do we do? All we seem to want to do is keep ridiculing the stuff. Postmodern irony and cynicism’s become an end in itself, a measure of hip sophistication and literary savvy. Few artists dare to try to talk about ways of working toward redeeming what’s wrong, because they’ll look sentimental and naive to all the weary ironists. Irony’s gone from liberating to enslaving. There’s some great essay somewhere that has a line about irony being the song of the prisoner who’s come to love his cage.<footer class="english-footer">David Foster Wallce</footer></blockquote>
-<blockquote class="english-blockquote">I must change my life so that I can live it, not wait for it.<footer class="english-footer">Susan Sontag, Reborn: Journals and Notebooks, 1947-1964</footer></blockquote>
 
 <blockquote class="english-blockquote">An expert is a man who has made all the mistakes which can be made in a very narrow field.<footer class="english-footer">Niels Bohr</footer></blockquote>
 
@@ -106,14 +100,9 @@ date: 2024-05-18
 
 <blockquote class="english-blockquote">I make all my decisions on intuition. But then, I must know why I made that decision. I throw a spear into the darkness. That is intuition. Then I must send an army into the darkness to find the spear. That is intellect.<footer class="english-footer">Ingmar Bergman</footer></blockquote>
 
-<blockquote class="farsi-blockquote">اَلنّاسُ بِاُمَرائِهِمْ اَشْبَهُ مِنْهُمْ بِآبائِهِمْ - مردم، به حاکمان خود شبیه‌ترند تا به پدرانشان<footer class="farsi-footer">امام علی علیه‌السلام</footer></blockquote>
 
 
 <blockquote class="english-blockquote">People who don't take risks generally make about two big mistakes a year. People who do take risks generally make about two big mistakes a year.<footer class="english-footer">Peter Drucker</footer></blockquote>
 
 
 <blockquote class="english-blockquote">Yet if the only form of tradition, of handing down, consisted in following the ways of the immediate generation before us in a blind or timid adherence to its successes, "tradition" should positively be discouraged. We have seen many such simple currents soon lost in the sand; and novelty is better than repetition. Tradition is a matter of much wider significance. It cannot be inherited, and if you want it you must obtain it by great labour.<footer class="english-footer">T.S. Elliot, Tradition and the Individual Talent</footer></blockquote>
-
-<blockquote class="farsi-blockquote">أحسِنِ الظَّنَّ باللّه ِ؛ فإنّ اللّه َ عَزَّ و جلَّ یقولُ : أنا عِندَ ظَنِّ عَبدِیَ المُؤمِنِ بی؛ إن خَیرا فخَیرا، و إن شَرّا فَشَرّا | به خداوند گمان نیک ببر ؛ زیرا خداى عزّ و جلّ مى‌فرماید: من نزد گمان بنده مؤمن خویشم؛ اگر گمانِ او به من نیک باشد، مطابق آن گمان با او رفتار کنم و اگر بد باشد نیز مطابق همان گمانِ بد با او عمل کنم.<footer class="farsi-footer">امام رضا علیه‌السلام- <a href="https://www.hadithlib.com/rolls/view/2300477/%DA%AF%D9%85%D8%A7%D9%86-%D9%86%D9%8A%DA%A9-%D8%A8%D9%87-%D8%AE%D8%AF%D8%A7%D9%88%D9%86%D8%AF">مشابهات</a></footer></blockquote>
-
-
