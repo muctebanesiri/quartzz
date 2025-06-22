@@ -1,3 +1,9 @@
+---
+title: لیست فیلم هایی که دیدم
+draft: false
+tags: 
+date:
+---
 My Videos
 =========
 
@@ -341,5 +347,3 @@ My Videos
 | Parasite                                                                            | ![9 stars](%D9%BE%D8%AE%D8%B1%D9%87%D8%AB_files/stars9.png)   |
 | Bilo the Banker                                                                     | ![9 stars](%D9%BE%D8%AE%D8%B1%D9%87%D8%AB_files/stars9.png)   |
 | It's a Wonderful Life                                                               | ![9 stars](%D9%BE%D8%AE%D8%B1%D9%87%D8%AB_files/stars9.png)   |
-
-* * *
