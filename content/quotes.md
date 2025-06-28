@@ -5,13 +5,13 @@ tags:
 date: 2024-05-18
 ---
 <blockquote class="english-blockquote">Elin adamı ne anlar senden?
-<footer class="english-footer"># Yaşar Kemal</footer></blockquote>
+<footer class="english-footer">Yaşar Kemal</footer></blockquote>
 
 <blockquote class="farsi-blockquote">هر قدمی که برمی‌داری، همان هدفی است که می‌جویی<footer class="farsi-footer">خورخه لوئی بورخس، در ستایش تاریکی، گل سرخ</footer></blockquote>
 
 
-<blockquote class="english-blockquote">Today is the first day of the rest of your life.  
-<footer class="english-footer">Charles Dederich</footer></blockquote>
+<blockquote class="english-blockquote">Kim bilir, bir insanın iyilik mi kötülük mü, dostluk mu düşmanlık mı düşündüğünü şöyle yüzüne bakınca, kim bilir? Tanışmadan, konuşup görüşmeden bir insan korkuludur, başka bir şeydir.  
+<footer class="english-footer">Yaşar Kemal</footer></blockquote>
 
 <blockquote class="english-blockquote">I cannot remember the books I've read any more than the meals I have eaten; even so, they have made me.<footer class="english-footer">Ralph Waldo Emerson</footer></blockquote>
 
