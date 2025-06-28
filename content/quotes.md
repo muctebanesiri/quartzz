@@ -13,7 +13,7 @@ date: 2024-05-18
 <blockquote class="english-blockquote">Be yourself; everyone else is already taken.  
 <footer class="english-footer">Oscar Wilde</footer></blockquote>
 
-<blockquote class="english-blockquote">Be who you are and say what you feel, because those who mind don't matter, and those who matter don't mind.<footer class="english-footer">Bernard M. Baruch</footer></blockquote>
+<blockquote class="english-blockquote">That which does not kill us makes us stronger.<footer class="english-footer">Friedrich Nietzsche</footer></blockquote>
 
 
 
