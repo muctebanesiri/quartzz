@@ -11,8 +11,8 @@ date: 2024-05-18
 که رفت به دوزخ و که آمد ز بهشت؟<footer class="farsi-footer">خیام</footer></blockquote>
 
 
-<blockquote class="english-blockquote">Be yourself; everyone else is already taken.  
-<footer class="english-footer">Oscar Wilde</footer></blockquote>
+<blockquote class="english-blockquote">İnsanlık bu kadar ilerlerken insanlar neden yerinde sayıyor?  
+<footer class="english-footer"># Immanuel Tolstoyevski, Safsatalar Ansiklopedisi</footer></blockquote>
 
 <blockquote class="english-blockquote">That which does not kill us makes us stronger.<footer class="english-footer">Friedrich Nietzsche</footer></blockquote>
 
