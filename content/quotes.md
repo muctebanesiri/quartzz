@@ -10,10 +10,10 @@ date: 2024-05-18
 <blockquote class="farsi-blockquote">هر قدمی که برمی‌داری، همان هدفی است که می‌جویی<footer class="farsi-footer">خورخه لوئی بورخس، در ستایش تاریکی، گل سرخ</footer></blockquote>
 
 
-<blockquote class="english-blockquote">Kim bilir, bir insanın iyilik mi kötülük mü, dostluk mu düşmanlık mı düşündüğünü şöyle yüzüne bakınca, kim bilir? Tanışmadan, konuşup görüşmeden bir insan korkuludur, başka bir şeydir.  
-<footer class="english-footer">Yaşar Kemal</footer></blockquote>
+<blockquote class="english-blockquote">Be yourself; everyone else is already taken.  
+<footer class="english-footer">Oscar Wilde</footer></blockquote>
 
-<blockquote class="english-blockquote">I cannot remember the books I've read any more than the meals I have eaten; even so, they have made me.<footer class="english-footer">Ralph Waldo Emerson</footer></blockquote>
+<blockquote class="english-blockquote">Be who you are and say what you feel, because those who mind don't matter, and those who matter don't mind.<footer class="english-footer">Bernard M. Baruch</footer></blockquote>
 
 
 
@@ -21,7 +21,7 @@ date: 2024-05-18
 
 
 
-<blockquote class="english-blockquote">Love is a striking example of how little reality means to us.<footer class="english-footer">Marcel Proust, In Search of Lost Time</footer></blockquote>
+<blockquote class="english-blockquote">I am so clever that sometimes I don't understand a single word of what I am saying.<footer class="english-footer">Oscar Wilde</footer></blockquote>
 
 <blockquote class="farsi-blockquote">خواندن دروازهٔ حیات فکری است؛ می‌تواند ما را به آن هدایت کند، اما برسازندهٔ آن نیست<footer class="farsi-footer">مارسل پروست، در باب خواندن</footer></blockquote>
 
