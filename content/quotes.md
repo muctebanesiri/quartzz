@@ -17,7 +17,8 @@ date: 2024-05-18
 
 
 
-<blockquote class="farsi-blockquote">چو علم آموختی از حرص آن گه ترس کاندر شب | چو دزدی با چراغ آید گزیده‌تر برد کالا<footer class="farsi-footer">قصیدهٔ ۷ ثنایی - در مقام اهل توحید</footer></blockquote>
+<blockquote class="farsi-blockquote">ملت نیجه تاراج اولور - اولسون، نه ایشیم وار؟!
+دشمنلره محتاج اولور - اولسون نه ایشیم وار؟!<footer class="farsi-footer">میرزا علی اکبر صابر</footer></blockquote>
 
 
 
