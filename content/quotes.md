@@ -4,8 +4,8 @@ draft: false
 tags: 
 date: 2024-05-18
 ---
-<blockquote class="english-blockquote">How we spend our days is, of course, how we spend our lives. 
-<footer class="english-footer">Annie Dillard</footer></blockquote>
+<blockquote class="english-blockquote">Elin adamı ne anlar senden?
+<footer class="english-footer"># Yaşar Kemal</footer></blockquote>
 
 <blockquote class="farsi-blockquote">هر قدمی که برمی‌داری، همان هدفی است که می‌جویی<footer class="farsi-footer">خورخه لوئی بورخس، در ستایش تاریکی، گل سرخ</footer></blockquote>
 
