@@ -30,7 +30,7 @@ date: 2024-05-18
 
 <blockquote class="farsi-blockquote">محقق به هیزم و خاکستر توجه دارد، جستارنویس به آتش<footer class="farsi-footer">والتر بنیامین</footer></blockquote>
 
-<blockquote class="english-blockquote">For the sake of the roses, we water the thorns</blockquote>
+<blockquote class="english-blockquote">I am not what I am.<footer class="english-footer">Oscar Wilde, The Picture of Dorian Gray</footer></blockquote>
 
 
 
