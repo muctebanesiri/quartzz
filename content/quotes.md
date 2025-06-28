@@ -7,7 +7,8 @@ date: 2024-05-18
 <blockquote class="english-blockquote">Elin adamı ne anlar senden?
 <footer class="english-footer">Yaşar Kemal</footer></blockquote>
 
-<blockquote class="farsi-blockquote">هر قدمی که برمی‌داری، همان هدفی است که می‌جویی<footer class="farsi-footer">خورخه لوئی بورخس، در ستایش تاریکی، گل سرخ</footer></blockquote>
+<blockquote class="farsi-blockquote">خیام! که گفت دوزخی خواهد بود؟
+که رفت به دوزخ و که آمد ز بهشت؟<footer class="farsi-footer">خیام</footer></blockquote>
 
 
 <blockquote class="english-blockquote">Be yourself; everyone else is already taken.  
