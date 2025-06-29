@@ -142,7 +142,7 @@ export const MultiLanguage: QuartzTransformerPlugin<Partial<Options>> = (userOpt
       return src
 
 
-    },Add commentMore actions
+    },
 
 
   }
