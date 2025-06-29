@@ -6,12 +6,10 @@ date: 2024-05-18
 ---
 <blockquote class="english-blockquote">Elin adamı ne anlar senden?
 <footer class="english-footer">Yaşar Kemal</footer></blockquote>
-> Elin adamı ne anlar senden?
 
 <blockquote class="farsi-blockquote">خیام! که گفت دوزخی خواهد بود؟
 که رفت به دوزخ و که آمد ز بهشت؟<footer class="farsi-footer">خیام</footer></blockquote>
 
-> خیام! که گفت دوزخی خواهد بود؟ که رفت به دوزخ و که آمد ز بهشت؟
 
 <blockquote class="english-blockquote">İnsanlık bu kadar ilerlerken insanlar neden yerinde sayıyor?  
 <footer class="english-footer"># Immanuel Tolstoyevski, Safsatalar Ansiklopedisi</footer></blockquote>
