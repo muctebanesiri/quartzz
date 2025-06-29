@@ -21,6 +21,7 @@ import RecentNotes from "./RecentNotes"
 import Breadcrumbs from "./Breadcrumbs"
 import Comments from "./Comments"
 import Sidenotes from "./Sidenotes"
+import LangPicker from "./LangPicker"
 
 export {
   ArticleTitle,
