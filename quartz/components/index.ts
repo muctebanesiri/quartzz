@@ -47,5 +47,5 @@ export {
   Breadcrumbs,
   Comments,
   Sidenotes,
-LangPicker,
+  LangPicker,
 }
