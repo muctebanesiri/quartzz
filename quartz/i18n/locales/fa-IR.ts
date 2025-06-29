@@ -8,7 +8,7 @@ export default {
   components: {
     callout: {
       note: "یادداشت",
-      abstract: "چکیده",
+      abstract: "خلاصه",
       info: "اطلاعات",
       todo: "اقدام",
       tip: "نکته",
@@ -22,7 +22,7 @@ export default {
       quote: "نقل قول",
     },
     backlinks: {
-      title: "بک‌لینک‌ها",
+      title: "بک‌لینک",
       noBacklinksFound: "بدون بک‌لینک",
     },
     themeToggle: {
@@ -36,7 +36,7 @@ export default {
       createdWith: "ساخته شده با",
     },
     graph: {
-      title: "نمای گراف",
+      title: "گراف",
     },
     recentNotes: {
       title: "یادداشت‌های اخیر",
