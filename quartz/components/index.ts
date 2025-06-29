@@ -47,5 +47,8 @@ export {
   Breadcrumbs,
   Comments,
   Sidenotes,
+<<<<<<< HEAD
   LangPicker,
+=======
+>>>>>>> parent of 3f041f3 (Update index.ts)
 }
