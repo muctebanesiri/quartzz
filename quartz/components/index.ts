@@ -21,7 +21,6 @@ import RecentNotes from "./RecentNotes"
 import Breadcrumbs from "./Breadcrumbs"
 import Comments from "./Comments"
 import Sidenotes from "./Sidenotes"
-import LangPicker from "./LangPicker"
 
 export {
   ArticleTitle,
@@ -47,8 +46,4 @@ export {
   Breadcrumbs,
   Comments,
   Sidenotes,
-<<<<<<< HEAD
-  LangPicker,
-=======
->>>>>>> parent of 3f041f3 (Update index.ts)
 }
