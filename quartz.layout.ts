@@ -36,10 +36,11 @@ export const defaultContentPageLayout: PageLayout = {
   right: [
     Component.DesktopOnly(Component.PageTitle()),
     Component.DesktopOnly(Component.Darkmode()),
-    Component.DesktopOnly(Component.Search()),({
-       filterFn: (node) => {
+    Component.DesktopOnly(Component.Search()),
+    //Component.DesktopOnly(Component.Explore({
+    //   filterFn: (node) => {
          //exclude files with the tag "explorerexclude"
-         return node.file?.frontmatter?.tags?.includes("explorerexclude") !== true
+     //    return node.file?.frontmatter?.tags?.includes("explorerexclude") !== true
        },
      })),
     Component.DesktopOnly(Component.TableOfContents()),
