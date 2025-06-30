@@ -6,7 +6,19 @@ export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
   afterBody: [
-    
+    Component.Comments({
+      provider: 'giscus',
+      options: {
+        // from data-repo
+        repo: 'muctebanesiri/quartz',
+        // from data-repo-id
+        repoId: 'R_kgDOO6vOAQ',
+        // from data-category
+        category: 'Announcements',
+        // from data-category-id
+        categoryId: 'DIC_kwDOO6vOAc4Crhth',
+      }
+    }),
   ],
   footer: Component.Footer({
     links: {
@@ -37,15 +49,14 @@ export const defaultContentPageLayout: PageLayout = {
     Component.DesktopOnly(Component.PageTitle()),
     Component.DesktopOnly(Component.Darkmode()),
     Component.DesktopOnly(Component.Search()),
-    //Component.DesktopOnly(Component.Explore({
+    // Component.DesktopOnly(Component.Explorer({
     //   filterFn: (node) => {
-         //exclude files with the tag "explorerexclude"
-     //    return node.file?.frontmatter?.tags?.includes("explorerexclude") !== true
-     //  },
-     })),
+    //     // exclude files with the tag "explorerexclude"
+    //     return node.file?.frontmatter?.tags?.includes("explorerexclude") !== true
+    //   },
+    // })),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.MobileOnly(Component.Backlinks()),
-    Component.MobileOnly(Component.Graph()),
   ],
 }
 
