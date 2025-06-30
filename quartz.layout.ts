@@ -37,7 +37,6 @@ export const defaultContentPageLayout: PageLayout = {
     Component.DesktopOnly(Component.PageTitle()),
     Component.DesktopOnly(Component.Darkmode()),
     Component.DesktopOnly(Component.Search()),
-    Component.DesktopOnly(Component.Explorer({
        filterFn: (node) => {
          //exclude files with the tag "explorerexclude"
          return node.file?.frontmatter?.tags?.includes("explorerexclude") !== true
