@@ -15,7 +15,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "fa-IR",
-    baseUrl: "muctebanesiri.github.io/quartz",
+    baseUrl: "mucteba.ir",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
