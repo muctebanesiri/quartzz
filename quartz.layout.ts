@@ -18,7 +18,7 @@ export const sharedPageComponents: SharedLayout = {
         // from data-category-id
    //     categoryId: 'DIC_kwDOO6vOAc4Crhth',
    //   }
-    }),
+//    }),
   ],
   footer: Component.Footer({
     links: {
