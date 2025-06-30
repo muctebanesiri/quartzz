@@ -6,17 +6,17 @@ export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
   afterBody: [
-    Component.Comments({
-      provider: 'giscus',
-      options: {
+  //  Component.Comments({
+  //    provider: 'giscus',
+  //    options: {
         // from data-repo
-        repo: 'muctebanesiri/quartz',
+   //     repo: 'muctebanesiri/quartz',
         // from data-repo-id
-        repoId: 'R_kgDOO6vOAQ',
+  //      repoId: 'R_kgDOO6vOAQ',
         // from data-category
-        category: 'Announcements',
+    //    category: 'Announcements',
         // from data-category-id
-        categoryId: 'DIC_kwDOO6vOAc4Crhth',
+   //     categoryId: 'DIC_kwDOO6vOAc4Crhth',
       }
     }),
   ],
