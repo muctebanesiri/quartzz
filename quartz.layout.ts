@@ -41,7 +41,7 @@ export const defaultContentPageLayout: PageLayout = {
     //   filterFn: (node) => {
          //exclude files with the tag "explorerexclude"
      //    return node.file?.frontmatter?.tags?.includes("explorerexclude") !== true
-       },
+     //  },
      })),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.MobileOnly(Component.Backlinks()),
