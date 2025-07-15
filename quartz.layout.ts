@@ -6,34 +6,41 @@ export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
   afterBody: [
-    // Keep comments disabled
+  //  Component.Comments({
+  //    provider: 'giscus',
+  //    options: {
+        // from data-repo
+   //     repo: 'muctebanesiri/quartz',
+        // from data-repo-id
+  //      repoId: 'R_kgDOO6vOAQ',
+        // from data-category
+    //    category: 'Announcements',
+        // from data-category-id
+   //     categoryId: 'DIC_kwDOO6vOAc4Crhth',
+   //   }
+//    }),
   ],
   footer: Component.Footer({
     links: {
-      // Keep your links commented for now
+      // "یوتیوب": "https://www.youtube.com/@muctebanesiri",
+      // "گیت‌هاب": "https://github.com/muctebanesiri",
     },
   }),
 }
 
-// components for pages that display a single page (e.g. a legal document)
+// components for pages that display a single page (e.g. a single note)
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
     Component.Breadcrumbs(),
     Component.ArticleTitle(),
-    Component.ContentMeta({
-      showReadingTime: false, // Hide reading time for legal docs
-    }),
+    Component.ContentMeta(),
     Component.TagList(),
   ],
   left: [
-    Component.DesktopOnly(Component.Explorer({
-      title: "فهرست قوانین", // "List of Laws"
-      filterFn: (node) => {
-        // Only show legal documents
-        return node.file?.frontmatter?.category === "legal"
-      },
-    })),
+    Component.DesktopOnly(Component.Sidenotes()),
     Component.DesktopOnly(Component.Graph()),
+    Component.DesktopOnly(Component.Backlinks()),
+
     Component.MobileOnly(Component.PageTitle()),
     Component.MobileOnly(Component.Darkmode()),
     Component.MobileOnly(Component.Search()),
@@ -42,18 +49,18 @@ export const defaultContentPageLayout: PageLayout = {
     Component.DesktopOnly(Component.PageTitle()),
     Component.DesktopOnly(Component.Darkmode()),
     Component.DesktopOnly(Component.Search()),
+    // Component.DesktopOnly(Component.Explorer({
+    //   filterFn: (node) => {
+    //     // exclude files with the tag "explorerexclude"
+    //     return node.file?.frontmatter?.tags?.includes("explorerexclude") !== true
+    //   },
+    // })),
     Component.DesktopOnly(Component.TableOfContents()),
-    Component.DesktopOnly(Component.Backlinks()),
-    Component.RecentNotes({
-      title: "قوانین اخیراً به‌روز شده", // "Recently Updated Laws"
-      limit: 5,
-      filter: (f) => f.frontmatter?.category === "legal",
-      linkToMore: "/tags/legal/" as any,
-    }),
+    Component.MobileOnly(Component.Backlinks()),
   ],
 }
 
-// components for pages that display lists of pages (e.g. tags or folders)
+// components for pages that display lists of pages  (e.g. tags or folders)
 export const defaultListPageLayout: PageLayout = {
   beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(), Component.ContentMeta()],
   left: [
@@ -65,9 +72,10 @@ export const defaultListPageLayout: PageLayout = {
     Component.Search(),
     Component.DesktopOnly(Component.Darkmode()),
     Component.DesktopOnly(Component.Explorer({
-      title: "دسته‌بندی قوانین", // "Law Categories"
-      filterFn: (node) => node.file?.frontmatter?.category === "legal"
+      filterFn: (node) => {
+        // exclude files with the tag "explorerexclude"
+        return node.file?.frontmatter?.tags?.includes("explorerexclude") !== true
+      },
     })),
-    Component.DesktopOnly(Component.TableOfContents()),
   ],
 }
