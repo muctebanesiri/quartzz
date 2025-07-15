@@ -1,12 +1,12 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
 
-// Components shared across all pages
+// components shared across all pages
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
   afterBody: [
-    // Keep comments disabled for now
+    // Keep comments disabled
   ],
   footer: Component.Footer({
     links: {
@@ -15,22 +15,25 @@ export const sharedPageComponents: SharedLayout = {
   }),
 }
 
-// Components for single legal document pages
+// components for pages that display a single page (e.g. a legal document)
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
     Component.Breadcrumbs(),
     Component.ArticleTitle(),
-    Component.LegalDocumentMeta(), // Custom metadata for legal docs
+    Component.ContentMeta({
+      showReadingTime: false, // Hide reading time for legal docs
+    }),
     Component.TagList(),
-    Component.LegalReferenceLinks(), // Custom component for related laws
   ],
   left: [
-    Component.DesktopOnly(Component.LegalTableOfContents()), // Enhanced TOC
-    Component.DesktopOnly(Component.LegalExplorer({
+    Component.DesktopOnly(Component.Explorer({
+      title: "فهرست قوانین", // "List of Laws"
       filterFn: (node) => {
+        // Only show legal documents
         return node.file?.frontmatter?.category === "legal"
       },
     })),
+    Component.DesktopOnly(Component.Graph()),
     Component.MobileOnly(Component.PageTitle()),
     Component.MobileOnly(Component.Darkmode()),
     Component.MobileOnly(Component.Search()),
@@ -39,31 +42,32 @@ export const defaultContentPageLayout: PageLayout = {
     Component.DesktopOnly(Component.PageTitle()),
     Component.DesktopOnly(Component.Darkmode()),
     Component.DesktopOnly(Component.Search()),
+    Component.DesktopOnly(Component.TableOfContents()),
     Component.DesktopOnly(Component.Backlinks()),
-    Component.LegalQuickLinks(), // Custom quick access to major laws
-    Component.LegalUpdatesFeed(), // Recent legal changes
+    Component.RecentNotes({
+      title: "قوانین اخیراً به‌روز شده", // "Recently Updated Laws"
+      limit: 5,
+      filter: (f) => f.frontmatter?.category === "legal",
+      linkToMore: "/tags/legal/" as any,
+    }),
   ],
 }
 
-// Components for list pages (tags, categories, search results)
+// components for pages that display lists of pages (e.g. tags or folders)
 export const defaultListPageLayout: PageLayout = {
-  beforeBody: [
-    Component.Breadcrumbs(), 
-    Component.ArticleTitle(), 
-    Component.LegalContentMeta()
-  ],
+  beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(), Component.ContentMeta()],
   left: [
     Component.MobileOnly(Component.PageTitle()),
     Component.MobileOnly(Component.Darkmode()),
-    Component.LegalCategoryFilter(), // Filter by legal categories
   ],
   right: [
     Component.DesktopOnly(Component.PageTitle()),
     Component.Search(),
     Component.DesktopOnly(Component.Darkmode()),
-    Component.DesktopOnly(Component.LegalExplorer({
+    Component.DesktopOnly(Component.Explorer({
+      title: "دسته‌بندی قوانین", // "Law Categories"
       filterFn: (node) => node.file?.frontmatter?.category === "legal"
     })),
-    Component.LegalReferenceIndex(), // Index of legal terms
+    Component.DesktopOnly(Component.TableOfContents()),
   ],
 }
