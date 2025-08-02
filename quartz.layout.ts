@@ -11,6 +11,7 @@ afterBody: [
         title: "پست های اخیر", // Customize the title
         limit: 5,                // Set the number of notes to display
         showTags: true,
+        linkToMore: SimpleSlug, // Use a valid slug here
         filter: (f) => {
             // Exclude a specific page by title
             return f.title !== "index.md"; // Replace with the actual title
@@ -51,6 +52,8 @@ export const defaultContentPageLayout: PageLayout = {
   ],
   left: [
     Component.DesktopOnly(Component.Sidenotes()),
+    Component.RecentNotes({
+})
     Component.DesktopOnly(Component.Graph()),
     Component.DesktopOnly(Component.Backlinks()),
 
