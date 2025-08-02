@@ -12,15 +12,16 @@ afterBody: [
         title: "پست‌های اخیر",
         limit: 4,
         filter: (f) =>
-          f.slug!.startsWith("posts/") && f.slug! !== "posts/index" && !f.frontmatter?.noindex,
+          f.slug!.startsWith("notes/") && f.slug! !== "posts/index" && !f.frontmatter?.noindex,
         linkToMore: "posts/" as SimpleSlug,
       }),
       Component.RecentNotes({
         title: "Recent Notes",
         limit: 2,
-        filter: (f) => f.slug!.startsWith("thoughts/"),
+        filter: (f) => f.slug!.startsWith("notes/"),
         linkToMore: "thoughts/" as SimpleSlug,
       }),
+      
 ],
 
   //  Component.Comments({
