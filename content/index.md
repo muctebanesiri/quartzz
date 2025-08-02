@@ -5,7 +5,7 @@ cssclasses:
 draft: false
 date: 2023-12-07
 ---
-![https://dn721904.ca.archive.org/0/items/cassette-beasts-v-1.5.0-linux-linux-rule-z/art_casette_beasts_1.png](https://dn721904.ca.archive.org/0/items/cassette-beasts-v-1.5.0-linux-linux-rule-z/art_casette_beasts_1.png)
+![[Pasted image 20250803024802.png]]
 # 🐈 پادکست پیشیک‌یولو
 
 *نظریمه جالب گلن موضوعاتدان دانیشیرام.*
