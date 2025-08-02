@@ -5,16 +5,19 @@ import * as Component from "./quartz/components"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [
-            // Add Recent Notes here
+afterBody: [
+    // Add Recent Notes here
     Component.RecentNotes({
         title: "پست های اخیر", // Customize the title
-        limit: 5,                // Set the number of notes to display)
+        limit: 5,                // Set the number of notes to display
         showTags: true,
         filter: (f) => {
-        // Exclude a specific page by title
-          return f.title !== "Title of the Page to Exclude", // Replace with the actual title
+            // Exclude a specific page by title
+            return f.title !== "مجتبی"; // Replace with the actual title
+        },
     }),
+],
+
   //  Component.Comments({
   //    provider: 'giscus',
   //    options: {
@@ -28,7 +31,7 @@ export const sharedPageComponents: SharedLayout = {
    //     categoryId: 'DIC_kwDOO6vOAc4Crhth',
    //   }
 //    }),
-  ],
+
   footer: Component.Footer({
     links: {
       // "یوتیوب": "https://www.youtube.com/@muctebanesiri",
