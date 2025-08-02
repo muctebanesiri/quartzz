@@ -68,7 +68,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.DesktopOnly(Component.PageTitle()),
     Component.DesktopOnly(Component.Darkmode()),
     Component.RecentNotes({
-        limit: 4,
+        limit: 3,
         filter: (f) =>
           f.slug!.startsWith("notes/") && f.slug! !== "posts/index" && !f.frontmatter?.noindex,
         linkToMore: "notes/" as SimpleSlug,
