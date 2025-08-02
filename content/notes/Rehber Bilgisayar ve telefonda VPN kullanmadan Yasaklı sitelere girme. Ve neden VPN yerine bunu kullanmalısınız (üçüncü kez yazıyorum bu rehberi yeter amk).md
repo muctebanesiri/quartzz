@@ -4,7 +4,7 @@ draft: false
 tags:
   - reddit
   - tutorial
-date:
+date: 2025-04-16
 ---
 
 <blockquote class="english-blockquote">
