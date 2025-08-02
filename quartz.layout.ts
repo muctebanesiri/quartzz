@@ -52,7 +52,7 @@ export const defaultContentPageLayout: PageLayout = {
   ],
   left: [
     Component.DesktopOnly(Component.Sidenotes()),
-    Component.DesktopOnly(Component.RecentNotes())
+    Component.DesktopOnly(Component.RecentNotes()),
     Component.DesktopOnly(Component.Graph()),
     Component.DesktopOnly(Component.Backlinks()),
 
