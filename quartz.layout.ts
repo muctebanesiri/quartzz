@@ -10,6 +10,10 @@ export const sharedPageComponents: SharedLayout = {
     Component.RecentNotes({
         title: "پست های اخیر", // Customize the title
         limit: 5,                // Set the number of notes to display)
+        showTags: true,
+        filter: (f) => {
+        // Exclude a specific page by title
+          return f.title !== "Title of the Page to Exclude", // Replace with the actual title
     }),
   //  Component.Comments({
   //    provider: 'giscus',
