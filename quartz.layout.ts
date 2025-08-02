@@ -42,7 +42,6 @@ export const defaultContentPageLayout: PageLayout = {
   ],
   left: [
     Component.DesktopOnly(Component.Sidenotes()),
-    Component.DesktopOnly(Component.RecentNotes()),
     Component.DesktopOnly(Component.Graph()),
     Component.DesktopOnly(Component.Backlinks()),
 
@@ -54,6 +53,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.DesktopOnly(Component.PageTitle()),
     Component.DesktopOnly(Component.Darkmode()),
     Component.DesktopOnly(Component.Search()),
+    Component.DesktopOnly(Component.RecentNotes()),
     // Component.DesktopOnly(Component.Explorer({
     //   filterFn: (node) => {
     //     // exclude files with the tag "explorerexclude"
