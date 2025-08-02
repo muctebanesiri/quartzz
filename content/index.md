@@ -3,6 +3,7 @@ title: mucteba
 cssclasses:
   - index
 draft: false
+date: 2023-12-07
 ---
 # 🐈 پادکست پیشیک‌یولو
 
