@@ -6,6 +6,11 @@ export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
   afterBody: [
+            // Add Recent Notes here
+    Component.RecentNotes({
+        title: "پست های اخیر", // Customize the title
+        limit: 5,                // Set the number of notes to display)
+    }),
   //  Component.Comments({
   //    provider: 'giscus',
   //    options: {
@@ -35,11 +40,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ArticleTitle(),
     Component.ContentMeta(),
     Component.TagList(),
-        // Add Recent Notes here
-    Component.RecentNotes({
-        title: "Recent Writing", // Customize the title
-        limit: 5,                // Set the number of notes to display)
-    }),
+
   ],
   left: [
     Component.DesktopOnly(Component.Sidenotes()),
