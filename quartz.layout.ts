@@ -1,6 +1,22 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
 
+const recentNotes = [
+  Component.RecentNotes({
+    title: "پست‌های اخیر",
+    limit: 4,
+    filter: (f) =>
+      f.slug!.startsWith("posts/") && f.slug! !== "posts/index" && !f.frontmatter?.noindex,
+    linkToMore: "posts/" as SimpleSlug,
+  }),
+  Component.RecentNotes({
+    title: "Recent Notes",
+    limit: 2,
+    filter: (f) => f.slug!.startsWith("thoughts/"),
+    linkToMore: "thoughts/" as SimpleSlug,
+  }),
+]
+
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
