@@ -6,12 +6,7 @@ export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
 afterBody: [
-    // Add Recent Notes here
-    Component.RecentNotes({
-        title: "پست های اخیر", // Customize the title
-        limit: 5,                // Set the number of notes to display
-        showTags: true,
-    }),
+
 ],
 
   //  Component.Comments({
