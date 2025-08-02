@@ -9,7 +9,6 @@ export const sharedPageComponents: SharedLayout = {
   header: [],
 afterBody: [
       Component.RecentNotes({
-        title: "پست‌های اخیر",
         limit: 4,
         filter: (f) =>
           f.slug!.startsWith("notes/") && f.slug! !== "posts/index" && !f.frontmatter?.noindex,
@@ -68,6 +67,12 @@ export const defaultContentPageLayout: PageLayout = {
   right: [
     Component.DesktopOnly(Component.PageTitle()),
     Component.DesktopOnly(Component.Darkmode()),
+    Component.RecentNotes({
+        limit: 4,
+        filter: (f) =>
+          f.slug!.startsWith("notes/") && f.slug! !== "posts/index" && !f.frontmatter?.noindex,
+        linkToMore: "notes/" as SimpleSlug,
+      }),
       // Component.DesktopOnly(Component.Explorer({
     //   filterFn: (node) => {
     //     // exclude files with the tag "explorerexclude"
