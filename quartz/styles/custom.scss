@@ -100,7 +100,7 @@ footer ul {
 	display: unset;
 }
 
-code { 
+code {
 	direction: ltr !important;
 }
 
@@ -130,7 +130,7 @@ div.search.mobile-only {
 
 .markdown-preview-view .farsi-blockquote {
     direction: rtl;
-    
+
     margin: 0 auto;
     margin-top: 1em;
     margin-bottom: 1em;
@@ -139,11 +139,11 @@ div.search.mobile-only {
     border-right: 2px solid gray !important;
     border-left: unset;
 
-    
+
     color: gray;
     /* color: gray; */
 }
-  
+
 .farsi-blockquote {
     direction: rtl;
     padding: 0 20px 0 0;
@@ -156,7 +156,7 @@ div.search.mobile-only {
     // font-family: Sahel;
     font-size: 16px;
     /* font-style: italic; */
-    color: var(--text-muted);   
+    color: var(--text-muted);
     max-width: var(--max-width);
     margin: 0 auto!important;
     width: var(--line-width-adaptive);
@@ -200,7 +200,7 @@ blockquote footer:before {
 
 .markdown-preview-view blockquote {
     direction: rtl;
-    
+
     margin: 0 auto;
     margin-top: 1em;
     margin-bottom: 1em;
@@ -209,11 +209,11 @@ blockquote footer:before {
     border-right: 2px solid var(--text-muted) !important;
     border-left: unset;
 
-    
+
     color: var(--text-muted);
     /* color: gray; */
 }
-  
+
 blockquote {
     direction: rtl;
 
@@ -228,7 +228,7 @@ blockquote {
     // font-family: Sahel;
     font-size: 17px;
     /* font-style: italic; */
-    color: var(--text-muted);   
+    color: var(--text-muted);
     width: var(--line-width-adaptive);
     /* color: gray; */
 }
@@ -251,10 +251,10 @@ blockquote::before {
     font-style: italic;
     padding: 0 0 0 20px;
 }
-  
+
 .english-blockquote {
     direction: ltr;
-    
+
     max-width: var(--max-width);
 
     margin: 0 auto;
@@ -268,7 +268,7 @@ blockquote::before {
     font-family: 'Times New Roman', Times, serif;
     font-size: 20px;
     font-style: italic;
-    color: var(--text-muted);   
+    color: var(--text-muted);
 }
 
 .english-blockquote::before {
@@ -295,7 +295,7 @@ blockquote .english-footer {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-style: normal;
     text-transform: uppercase;
-    
+
 }
 
 blockquote footer:before {
@@ -443,8 +443,8 @@ h2#footnote-label{
     visibility: hidden;
     direction: rtl !important;
 }
-  
-  
+
+
 h2#footnote-label::after{
     content: "پانوشت‌ها";
     visibility: visible;
@@ -461,7 +461,7 @@ body[data-slug="پروژه‌ها/یادداشت‌برداری/متن‌خوا�
 }
 
 
-// 
+//
 .logo-div {
     display: flex;
     justify-content: center;
@@ -530,7 +530,7 @@ body[data-slug="پروژه‌ها/یادداشت‌برداری/متن‌خوا�
     margin-bottom: 20px;
 }
 
-.article-header h1 { 
+.article-header h1 {
     margin: 0;
     color: white !important;
     font-size: 28px;
@@ -558,11 +558,11 @@ body[data-slug="پروژه‌ها/یادداشت‌برداری/متن‌خوا�
 	direction: rtl !important;
     text-align: center;
 }
- 
+
 pre:has(>code.mermaid) {
 	background-color: transparent;
 }
- 
+
 .nodeLabel {
 	font-family: var(--bodyFont);
 }
@@ -571,7 +571,7 @@ pre:has(>code.mermaid) {
     font-family: var(--bodyFont);
     background-color: #fff !important;
 }
- 
+
 pre:has(>code.mermaid) .clipboard-button {
 	display: none;
 }
@@ -628,7 +628,7 @@ pre:has(>code.mermaid) .clipboard-button {
 #icon-header {
     margin: 0;
     transition: transform 0.2s ease;
-    
+
     &:hover {
         transform: scale(1.05);
     }
@@ -648,7 +648,7 @@ pre:has(>code.mermaid) .clipboard-button {
     }
 }
 
-// Image Grid 
+// Image Grid
 .img-grid, article.img-grid {
     // Handle images directly in paragraphs
     > p {
@@ -657,7 +657,7 @@ pre:has(>code.mermaid) .clipboard-button {
         gap: 0.5rem;
         margin-top: 0.5rem;
         margin-bottom: 0.5rem;
-        
+
         > img {
             flex: 1;
             min-width: 200px;
@@ -666,54 +666,54 @@ pre:has(>code.mermaid) .clipboard-button {
             margin: 0;
         }
     }
-    
+
     // Keep the existing selectors for compatibility
     article > div:has(> img) {
         display: flex;
         flex-wrap: wrap;
         gap: 0.5rem;
     }
-    
+
     article > div:has(> img) > * {
         flex: 1;
         min-width: 200px;
         margin-block-start: 0;
         margin-block-end: 0;
     }
-    
+
     article > div:has(> img) > img {
         width: 100%;
         height: 100%;
         object-fit: cover;
     }
-    
+
     // Make sure paragraphs with images inside are properly handled
     article > div:has(> p:has(> img)) {
         display: flex;
         flex-wrap: wrap;
         gap: 0.5rem;
     }
-    
+
     article > div:has(> p:has(> img)) > p {
         flex: 1;
         min-width: 200px;
         margin-block-start: 0;
         margin-block-end: 0;
     }
-    
+
     article > div:has(> p:has(> img)) > p > img {
         width: 100%;
         height: 100%;
         object-fit: cover;
     }
-    
+
     // Support for internal embeds that contain images
     article > div:has(> .internal-embed:has(> img)) {
         display: flex;
         flex-wrap: wrap;
         gap: 0.5rem;
     }
-    
+
     article > div:has(> .internal-embed:has(> img)) > .internal-embed {
         flex: 1;
         min-width: 200px;
@@ -722,12 +722,84 @@ pre:has(>code.mermaid) .clipboard-button {
         padding: 0;
         background-color: transparent;
     }
-    
+
     article > div:has(> .internal-embed:has(> img)) > .internal-embed > img {
         width: 100%;
         height: 100%;
         object-fit: cover;
     }
 }
+/* === Styles for Featured Cards === */
 
+.featured-cards-title {
+    text-align: right;
+    margin-bottom: 1.5rem;
+    font-size: 1.75rem;
+  }
 
+  .card-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 1.5rem;
+    margin: 2rem 0;
+  }
+
+  .card-container {
+    display: block;
+    position: relative;
+    padding: 1.5rem;
+    border-radius: 8px;
+    background-color: var(--darkgray); /* Fallback color */
+    overflow: hidden;
+    text-decoration: none;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    min-height: 100px;
+  }
+
+  .card-container:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 20px rgba(0,0,0,0.2);
+  }
+
+  .card-bg {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-image: var(--card-bg);
+    background-size: cover;
+    background-position: center;
+    transition: all 0.4s ease;
+  }
+
+  .card-container.has-image .card-bg {
+    filter: blur(4px) brightness(0.6);
+    transform: scale(1.05);
+  }
+
+  .card-container.has-image:hover .card-bg {
+    filter: blur(0px) brightness(0.8);
+    transform: scale(1);
+  }
+
+  .card-container.no-image .card-bg {
+    background: linear-gradient(135deg, #8B5CF6 0%, #6366F1 50%, #3B82F6 100%);
+  }
+
+  .card-content {
+    position: relative;
+    z-index: 2;
+  }
+
+  .card-content h3 {
+    margin: 0 0 0.5rem 0;
+    color: #FFFFFF !important; /* Always pure white */
+    font-size: 1.25rem;
+  }
+
+  .card-content p {
+    margin: 0;
+    color: #E5E7EB !important; /* Always a light gray */
+    font-size: 0.9rem;
+  }
