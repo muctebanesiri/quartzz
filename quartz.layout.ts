@@ -7,20 +7,7 @@ import * as Component from "./quartz/components"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-afterBody: [
-      Component.RecentNotes({
-        limit: 4,
-        filter: (f) =>
-          f.slug!.startsWith("notes/") && f.slug! !== "posts/index" && !f.frontmatter?.noindex,
-        linkToMore: "notes/" as SimpleSlug,
-      }),
-      Component.RecentNotes({
-        title: "Recent Notes",
-        limit: 2,
-        filter: (f) => f.slug!.startsWith("notes/"),
-        linkToMore: "notes/" as SimpleSlug,
-      }),
-      
+afterBody: [      
 ],
 
   //  Component.Comments({
@@ -72,6 +59,7 @@ export const defaultContentPageLayout: PageLayout = {
         filter: (f) =>
           f.slug!.startsWith("notes/") && f.slug! !== "posts/index" && !f.frontmatter?.noindex,
         linkToMore: "notes/" as SimpleSlug,
+
       }),
       // Component.DesktopOnly(Component.Explorer({
     //   filterFn: (node) => {
@@ -93,7 +81,7 @@ export const defaultListPageLayout: PageLayout = {
   ],
   right: [
     Component.DesktopOnly(Component.PageTitle()),
-    Component.Search(),
+    Component.DesktopOnly(Component.Search()),
     Component.DesktopOnly(Component.Darkmode()),
     Component.DesktopOnly(Component.Explorer({
       filterFn: (node) => {
