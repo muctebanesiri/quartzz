@@ -13,7 +13,7 @@ afterBody: [
         showTags: true,
         filter: (f) => {
             // Exclude a specific page by title
-            return f.title !== "مجتبی"; // Replace with the actual title
+            return f.title !== "index.md"; // Replace with the actual title
         },
     }),
 ],
