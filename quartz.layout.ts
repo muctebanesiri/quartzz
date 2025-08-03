@@ -53,6 +53,12 @@ export const defaultContentPageLayout: PageLayout = {
   ],
   right: [
     Component.DesktopOnly(Component.PageTitle()),
+    Component.DesktopOnly(Component.Explorer({
+      filterFn: (node) => {
+        // exclude files with the tag "explorerexclude"
+        return node.file?.frontmatter?.tags?.includes("explorerexclude") !== true
+      },
+    })),
     Component.DesktopOnly(Component.Darkmode()),
     Component.RecentNotes({
         limit: 3,
