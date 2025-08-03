@@ -67,7 +67,7 @@ export const defaultContentPageLayout: PageLayout = {
     //     return node.file?.frontmatter?.tags?.includes("explorerexclude") !== true
     //   },
     // })),
-    Component.DesktopOnly(Component.TableOfContents()),
+    ///Component.DesktopOnly(Component.TableOfContents()),
     Component.MobileOnly(Component.Backlinks()),
   ],
 }
