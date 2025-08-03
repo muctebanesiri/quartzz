@@ -5,7 +5,7 @@ cssclasses:
 draft: false
 date: 2023-12-07
 ---
-![[banner.svg]]
+![[attachment/banner.svg]]
 # 🐈 پادکست پیشیک‌یولو
 
 *نظریمه جالب گلن موضوعاتدان دانیشیرام.*
