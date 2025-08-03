@@ -10,7 +10,7 @@ const NotFound: QuartzComponent = ({ cfg }: QuartzComponentProps) => {
   return (
     <article class="popover-hint">
       <h1 style="text-align: center;">این ره که تو میروی به پوچستان است!</h1>
-      <img src="attachment/404.png" style="width: 25%;"></img>
+      <img src="attachment/404.png" style="width: 50%;"></img>
     </article>
   )
 }
