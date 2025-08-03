@@ -7,7 +7,7 @@ import * as Component from "./quartz/components"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-afterBody: [      
+afterBody: [
 ],
 
   //  Component.Comments({
@@ -78,11 +78,6 @@ export const defaultListPageLayout: PageLayout = {
   left: [
     Component.MobileOnly(Component.PageTitle()),
     Component.MobileOnly(Component.Darkmode()),
-  ],
-  right: [
-    Component.DesktopOnly(Component.PageTitle()),
-    Component.DesktopOnly(Component.Search()),
-    Component.DesktopOnly(Component.Darkmode()),
     Component.DesktopOnly(Component.Explorer({
       filterFn: (node) => {
         // exclude files with the tag "explorerexclude"
@@ -90,5 +85,9 @@ export const defaultListPageLayout: PageLayout = {
       },
     })),
   ],
+  right: [
+    Component.DesktopOnly(Component.PageTitle()),
+    Component.DesktopOnly(Component.Search()),
+    Component.DesktopOnly(Component.Darkmode()),
+  ],
 }
-
