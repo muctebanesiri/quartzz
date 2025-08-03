@@ -26,8 +26,8 @@ afterBody: [
 
   footer: Component.Footer({
     links: {
-      // "یوتیوب": "https://www.youtube.com/@muctebanesiri",
-      // "گیت‌هاب": "https://github.com/muctebanesiri",
+       "یوتیوب": "https://www.youtube.com/@muctebanesiri",
+       "گیت‌هاب": "https://github.com/muctebanesiri",
     },
   }),
 }
