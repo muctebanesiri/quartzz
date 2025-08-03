@@ -78,6 +78,7 @@ export const defaultListPageLayout: PageLayout = {
   left: [
     Component.MobileOnly(Component.PageTitle()),
     Component.MobileOnly(Component.Darkmode()),
+    Component.DesktopOnly(Component.Search()),
     Component.DesktopOnly(Component.Explorer({
       filterFn: (node) => {
         // exclude files with the tag "explorerexclude"
@@ -87,7 +88,6 @@ export const defaultListPageLayout: PageLayout = {
   ],
   right: [
     Component.DesktopOnly(Component.PageTitle()),
-    Component.DesktopOnly(Component.Search()),
     Component.DesktopOnly(Component.Darkmode()),
   ],
 }
