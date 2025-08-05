@@ -32,6 +32,9 @@ export default ((opts?: Options) => {
               <a href="/about">
                 درباره
               </a>
+              <a href="/contact">
+                ارتباط
+              </a>
           </div>
         </p>
         {/* <ul>
