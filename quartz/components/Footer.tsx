@@ -30,10 +30,10 @@ export default ((opts?: Options) => {
           </div>
           <div class="about-div">
               <a href="/about">
-                درباره
+                درباره  
               </a>
               <a href="/contact">
-                ارتباط
+                ارتباط  
               </a>
           </div>
         </p>
