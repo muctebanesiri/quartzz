@@ -14,7 +14,7 @@ const config: QuartzConfig = {
     analytics: {
       provider: "plausible",
     },
-    locale: "tr-IR",
+    locale: "fa-IR",
     baseUrl: "mucteba.ir",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
